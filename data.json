@@ -1,0 +1,2331 @@
+[
+    {
+        "place_id": "ChIJjdacRPu2zTER--Vc9Xtbx1E",
+        "title": "Sushi Zanmai D Pulze",
+        "gps_coordinates": {
+            "latitude": 2.9222403,
+            "longitude": 101.6513731
+        },
+        "rating": 4,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR0NUlEYm5BRRAB!2m1!1s0x0:0x51c75b7bf55ce5fb!3m1!1s2@1:CIHM0ogKEICAgIDt5IDbnAE%7CCgwIqdz2rQYQiObNgAM%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Famous franchise of sushi and Japanese cuisine. The yee sang is so much better than one of another sushi franchise 😛\nThe food even though order small the portion still make you quite full, taste wise 👌",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 4,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNadWViMFF3EAE!2m1!1s0x0:0x51c75b7bf55ce5fb!3m1!1s2@1:CIHM0ogKEICAgICZueb0Qw%7CCgsIvK-IqAYQuI7YNw%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Really enjoyed our dining experience here. Was sat down straight away by staff and ordering was so simple using QR code. The best part was being served by a robot 🙌🏽 first time ever I experienced that and I had no complaints.\n\nThe sushi is really well priced for a tourist, I ordered so many dishes and total came to under £20 (GBP). I would definitely dine here again.\n\nOnly thing to note is that the green tea is not free! I wish the waitresses mentioned this before serving us this. Would be nice if they mentioned that as the bill will be increased by RM 7 if you take it. Hence the 4 star and not 5.",
+                "likes": 1,
+                "details": {
+                    "food": 5,
+                    "service": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNwbmE3V2lRRRAB!2m1!1s0x0:0x51c75b7bf55ce5fb!3m1!1s2@1:CIHM0ogKEICAgICpna7WiQE%7CCgsImfjJpgYQ0MqqIw%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Service has improved by a lot since the last time I came here. But do expect a wait during peak hours. Staff was also quite well-mannered and prompt. Food is delicious but not consistent. Some days are delicious, and some not. Cleanliness can be improved, the smell of old cloth on the table is strong in some of the booths. The portion size of their house specialty sushi has shrunk over the years.",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Chawan Mushi, Chicken Teppanyaki"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNsN2JPRlRREAE!2m1!1s0x0:0x51c75b7bf55ce5fb!3m1!1s2@1:CIHM0ogKEICAgICl7bOFTQ%7CCgsI85yDqwYQyNypHQ%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "The food was ok. My favourite go-to sushi. But im writing this review to compliment the staff there - the 2 Chinese ladies/servers and their manager (I think manager, he’s wearing a blue shirt). Very attentive, friendly, and very polite when asking/talking to me. Also took the time to explain about the voucher in the app. I am a frequent customer and their service is consistent, remains tiptop - eventhough it’s peak hour! Good job. Gonna give credit when it’s due. Keep up the good work 💪🏻",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 40–60",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURwMHZxbW1RRRAB!2m1!1s0x0:0x51c75b7bf55ce5fb!3m1!1s2@1:CIHM0ogKEICAgIDp0vqmmQE%7CCgwIrriBpwYQ6P_NzQM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "\"Authentic Japanese Food\"\n\nI like the taste of the foods served to us. Sashimi, Sushi, Beef and soup is satisfying.\nThey also served green tea as your drink.\n\nPlace is clean and comforable.\n\nPrice is reasonable.",
+                "likes": 1,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 200+",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURHbk83dGtnRRAB!2m1!1s0x0:0x51c75b7bf55ce5fb!3m1!1s2@1:CIHM0ogKEICAgIDGnO7tkgE%7CCgwIu8fnjAYQ0IDmrQI%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Food all good. Just slow. Took quite a while for my food to be served. However I was not rushing so it was okay. Staff were all good and polite.\nJust one issue: When the staff was clearing the nearby tables, please don’t throw the ceramic plates into the tray. Causing such loud dishes clattering noise. Very disturbing. Please place them gently into the bus tray to avoid breaking the serve-ware.",
+                "likes": 1,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Lunch"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURPbDl5UTNRRRAB!2m1!1s0x0:0x51c75b7bf55ce5fb!3m1!1s2@1:CIHM0ogKEICAgIDOl9yQ3QE%7CCgwI08DJlgYQgLauuAI%7C?hl=en-US",
+                "rating": 2,
+                "snippet": "1st - The shop needs to be refurbished\nExtremely dirty-Can’t even see under the table chairs and the side.\n\n2nd - Food was not good, coz I usually go to other SushiZanmai.\n-Noodles see the presentation and you will know the taste. Look at the fried chicken so oily and cold.\n-butter mushroom so sweet\n-karage too much sauce\n\n3rd - Wait time 1 hour plus, even with not full house.\n\nSee some people don’t care about all this and still go for the food, for hygiene purpose this place really need to be seriously upgrade.",
+                "likes": 2,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 1–20"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURPd0o2T053EAE!2m1!1s0x0:0x51c75b7bf55ce5fb!3m1!1s2@1:CIHM0ogKEICAgIDOwJ6ONw%7CCgwI55HXlQYQwO3Q6AE%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "As expected, the sushi is really good. First time getting the seaweed salad, it's different, but very refreshing. The Japanese soy beans, oir first time too, a little bit overwhelming and probably to try them more to get used to the very unique smell and taste 😅 probably should have went with smaller portions. Other than that, you know it, the sushi is really tasty, fresh, and variety here. Always a pleasure to have dinner at Zanmai! 💕 Enjoy the photos! Highlight of the night? It has to be the Zanmai Signature mentai ❤️",
+                "likes": 0,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40"
+                }
+            }
+        ],
+        "types": [
+            "Japanese restaurant"
+        ],
+        "address": "Lower Ground Dpulze Shopping Centre, Lingkaran Cyber Point Timur, Cyber 12, 63000 Cyberjaya, Selangor, Malaysia"
+    },
+    {
+        "place_id": "ChIJDy2tgvi2zTERtt-UVwbcpG4",
+        "title": "Kiraku Japanese Restaurant",
+        "gps_coordinates": {
+            "latitude": 2.9233621999999997,
+            "longitude": 101.6608933
+        },
+        "rating": 4.2,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNEdDlDdlNBEAE!2m1!1s0x0:0x6ea4dc065794dfb6!3m1!1s2@1:CIHM0ogKEICAgICDt9CvSA%7CCgwIhPaysAYQ6NiLlAM%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Had the ala-carte buffet for ramadan Iftar. The food was okay, good quality seafood, although some particular sashimi (tuna) not as fresh as expected. The service and staffs were nice and efficient. The food presentation was a bit mediocre, probably due to the need to cater high volume of order at that particular time. Limited desert selection, except for the matcha cream brûlée which is quite good and unique. The price was affordable.",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 60–80",
+                    "food": 3,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Chicken Gyoza, Matcha Creme Brulee, Premium Assorted Sashimi, Oyster Mushroom"
+                },
+                "response_from_owner": "Thank you for taking your time to write us a review. We are glad that you had a good time dining in our restaurant and would like to see you again soon. You can give us a call at 03-8318 6003 if you wish to make a reservation. Do recommend us to your friends and family as well. We will continue to fine tune & improve our food & service to serve you better in the future. Thanks again for your feedback and have a nice day ahead. =)"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR0X0tPRkRnEAE!2m1!1s0x0:0x6ea4dc065794dfb6!3m1!1s2@1:CIHM0ogKEICAgIDt_KOFDg%7CCgwIy9_3rQYQuIOl4gE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "This restaurant has old corporate vibes like its the place where the company brings their client for lunch/ company lunch 😂. The deco is not that aesthetic BUT THE FOOD IS GOOD. The baked cheese scallop and oyster, grilled beef, fresh salmon, potato something and hot tempura is a must order. I read there are bad reviews bout the service but when i went here the service is quick so no complaints! Definitely will come here again.",
+                "likes": 2,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 80–100",
+                    "food": 5,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Matcha Creme Brulee, Shrimp Tempura, Salmon Teriyaki"
+                },
+                "response_from_owner": "Thank you for taking your time to write us a review. We are glad that you had a good time dining in our restaurant and would like to see you again soon. You can give us a call at 03-8318 6003 if you wish to make a reservation. Do recommend us to your friends and family as well. We will continue to fine tune & improve our food & service to serve you better in the future. Thanks again for your feedback and have a nice day ahead. =)"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMxd3J6QmdnRRAB!2m1!1s0x0:0x6ea4dc065794dfb6!3m1!1s2@1:CIHM0ogKEICAgIC1wrzBggE%7CCgwIkZOprAYQ8LijhgM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "This place offers a respectable variety of Japanese dishes at a premium.\n\nExcellent furnishing but could appear cluttered and chaotic with too many pictures on the walls.\n\nThe music is inappropriate for both the occasion and the setting. It darkens the mood and makes what was to be an enjoyable evening a sombre mourning.\n\nThese inconveniences aside the quality of the food is still decent, do enjoy the unagi which was our favourite, the rolls are quite decent too. For shellfish lovers, they will be delighted by the oysters and scallops.",
+                "likes": 2,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 100–120",
+                    "food": 5,
+                    "atmosphere": 2,
+                    "recommended_dishes": "Fish"
+                },
+                "response_from_owner": "Thank you for taking your time to write us a review. We are glad that you had a good time dining in our restaurant and would like to see you again soon. You can give us a call at 03-8318 6003 if you wish to make a reservation. Do recommend us to your friends and family as well. Noted on the music. We will continue to fine tune & improve our food & service to serve you better in the future. Thanks again for your feedback and have a nice day ahead. =)"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNkcE9mT1lBEAE!2m1!1s0x0:0x6ea4dc065794dfb6!3m1!1s2@1:CIHM0ogKEICAgICdpOfOYA%7CCgwIy6GnrgYQwMv3wAI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "The service is very good, quite a wide variety of selection. The private room is comfortable to accommodate my large family. We love the sashimi tuna and salmon as they are really fresh with beautiful presentation when we ordered a lot to share.  The cheese bake oyster and scallop are really delicious too.  Overall, the food is good.\nWe are glad that we have selected this restaurant for our CNY family reunion lunch here, with yee sang.",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "food": 5,
+                    "atmosphere": 5
+                },
+                "response_from_owner": "Thank you for taking your time to write us a review. We are glad that you had a good time dining in our restaurant and would like to see you again soon. You can give us a call at 03-8318 6003 if you wish to make a reservation. Do recommend us to your friends and family as well. We will continue to fine tune & improve our food & service to serve you better in the future. Thanks again for your feedback and have a nice day ahead. =)"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM5aC1qWDl3RRAB!2m1!1s0x0:0x6ea4dc065794dfb6!3m1!1s2@1:CIHM0ogKEICAgIC9h-jX9wE%7CCgwI4NC2rwYQ8M70sQI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "We came here to celebrate our Anniversary, all buffet foods were delicious. Quality Japanese dishes. We also book a private room that only add on rm10. Very satisfied will come again.",
+                "likes": 2,
+                "details": {
+                    "food": 5,
+                    "service": 5,
+                    "atmosphere": 5
+                },
+                "response_from_owner": "Thank you for taking your time to write us a review. We are glad that you had a good time dining in our restaurant and would like to see you again soon. You can give us a call at 03-8318 6003 if you wish to make a reservation. Do recommend us to your friends and family as well. We will continue to fine tune & improve our food & service to serve you better in the future. Thanks again for your feedback and have a nice day ahead. =)"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNMbFBtMVR3EAE!2m1!1s0x0:0x6ea4dc065794dfb6!3m1!1s2@1:CIHM0ogKEICAgICLlPm1Tw%7CCgsIkOa2swYQ0JeYBQ%7C?hl=en-US",
+                "rating": 1,
+                "snippet": "Honestly, I didn’t have any expectations for this buffet, but I am definitely very disappointed with the service. We arrived at 8:20 and asked the server if there were any walk-in tables available. She said yes and seated us, but only serve us for a while then we were ignored the whole dinner despite pressing the ‘call’ button several times. Not a single waitress came to our table, even though other customers only had to press the ‘call’ button once to get service which pissed me off. I informed one of the waitresses about my missing order, but dont know if the waitress inform the kitchen or not or yall just purposely ignoring me????? Tapi meja depan order benda sama tapi dapat  dekat dorang dulu?? I dont know if yall straight up being bias with malay customers or yall priorities are only Chinese customers. Not tryna be racist be this is what happened to me tonight. Press the “call” button several time yall ignore, other Chinese customers press only once yall came",
+                "likes": 0,
+                "details": {
+                    "service": 1,
+                    "meal_type": "Dinner",
+                    "food": 3,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR0MzVmVmp3RRAB!2m1!1s0x0:0x6ea4dc065794dfb6!3m1!1s2@1:CIHM0ogKEICAgIDt35fVjwE%7CCgwIrpOXrgYQwKGJkwM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Excellent tip top service! We loves the food, ambience and the hospitality! We came once. Now we came back with our family too. We'll visit more often . Felt like dining in hotel.",
+                "likes": 1,
+                "details": {
+                    "food": 5,
+                    "service": 5,
+                    "atmosphere": 5
+                },
+                "response_from_owner": "Thank you for taking your time to write us a review. We are glad that you had a good time dining in our restaurant and would like to see you again soon. You can give us a call at 03-8318 6003 if you wish to make a reservation. Do recommend us to your friends and family as well. We will continue to fine tune & improve our food & service to serve you better in the future. Thanks again for your feedback and have a nice day ahead. =)"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNEOW9xMU5REAE!2m1!1s0x0:0x6ea4dc065794dfb6!3m1!1s2@1:CIHM0ogKEICAgICD9oq1NQ%7CCgwI-v6TsAYQiO3tugM%7C?hl=en-US",
+                "rating": 3,
+                "snippet": "Great dining experience. We came here for lunch set menu over their buffet option\nThey are having special promotions for both lunch set and buffer during Ramadan month.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "food": 5,
+                    "atmosphere": 5
+                },
+                "response_from_owner": "Thank you for taking your time to write us a review. We are glad that you had a good time dining in our restaurant and would like to see you again soon. You can give us a call at 03-8318 6003 if you wish to make a reservation. Do recommend us to your friends and family as well. We will continue to fine tune & improve our food & service to serve you better in the future. Thanks again for your feedback and have a nice day ahead. =)"
+            }
+        ],
+        "types": [
+            "Japanese restaurant",
+            "Restaurant"
+        ],
+        "address": "P3, 25, Persiaran Multimedia, Shaftsbury Square, 63000 Cyberjaya, Selangor, Malaysia"
+    },
+    {
+        "place_id": "ChIJBbNdLlu3zTERb9m1gOqwJb0",
+        "title": "Nippon Sushi Putrajaya",
+        "gps_coordinates": {
+            "latitude": 2.9248442999999997,
+            "longitude": 101.6815774
+        },
+        "rating": 4.3,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQxanV1Z0x3EAE!2m1!1s0x0:0xbd25b0ea80b5d96f!3m1!1s2@1:CIHM0ogKEICAgID1juugLw%7CCgwI186trQYQ2M6nlwE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "One of wonderful place to had a Japanese style cuisine especially Sushi. Glad to had one near my neighbourhood. They had a scrumptious numbers of menu to choose from,  wether you like sushi, sashimi, agemono , ramen, menrui , Gohan etc.. As a sushi lover , I'm quite surprised that they had maguro sushi & salmon belly. I hope they will be able to serve Uni (sea urchin) Sushi. Here, they served both by conveyer belt & robot server . Affordable price , tasty & had Halal certified. Will repeat.",
+                "likes": 2,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 1–20",
+                    "food": 4,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Salmon Belly Shashimi"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURUX096Y1JREAE!2m1!1s0x0:0xbd25b0ea80b5d96f!3m1!1s2@1:CIHM0ogKEICAgIDT_OzcRQ%7CCgwIgcG8sgYQgM_2tgM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Huge portions for one person and the tastes were surprisingly really good. The service was superb and the place is cozy. Highly recommended for lunch and dinner spot.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Shio Ramen with Smoked Duck, Sashimi"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNObTlqNGhnRRAB!2m1!1s0x0:0xbd25b0ea80b5d96f!3m1!1s2@1:CIHM0ogKEICAgICNm9j4hgE%7CCgwIvp3erQYQ8Pnn-QE%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "My first nippon sushi experience and it was wonderful. Cheese chicken was so-so, too sweet for my liking, but the crab roll was wonderful. Many selection of sushi on belt, and fast service.",
+                "likes": 1
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ5bFpMX0FnEAE!2m1!1s0x0:0xbd25b0ea80b5d96f!3m1!1s2@1:CIHM0ogKEICAgID9lZL_Ag%7CCgwIxazlrwYQkLH5wQM%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "A delightful and cozy spot to enjoy delicious sushi, offering an extensive variety of food choices.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 180–200",
+                    "food": 4,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUeWVHWkN3EAE!2m1!1s0x0:0xbd25b0ea80b5d96f!3m1!1s2@1:CIHM0ogKEICAgICTyeGZCw%7CCgsIybaXsgYQqO3WXA%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Our family had birthday celebration last weekend. The cashier at that moment was very considerate and friendly. Very appreciate for your tiptop service sir.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 1–20",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURENEk3M2lRRRAB!2m1!1s0x0:0xbd25b0ea80b5d96f!3m1!1s2@1:CIHM0ogKEICAgIDD4I73iQE%7CCgwImZa6sAYQ2JOvigI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Had iftar here, pre-ordered our food and when we came the food were already on the table. 👍🏼 Everything was nice, the rice was a bit so-so. The teriyaki chicken was a bit dry but after having the sushi with the soy sauce/wasabi, it revived my appetite. 😂",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 4,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Tuna Sashimi, Salmon Mentai Sushi, Sashimi",
+                    "parking_space": "Somewhat difficult to find parking",
+                    "parking_options": "Paid parking lot",
+                    "parking": "Can either park outside the shop if youre lucky to find one, or park at the basement. Both options need to pay"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNacXNPWVhREAE!2m1!1s0x0:0xbd25b0ea80b5d96f!3m1!1s2@1:CIHM0ogKEICAgICZqsOYXQ%7CCgsIzY2MqAYQyOqnKg%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Restaurant with a view of a serene lake and has a long conveyor belt that provides non-stop sushi options. The freshly made foods, served by a cute robot came by quickly and were delicious. The restaurant was neat and clean and has a huge wall decor of Mount Fuji.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 1–20",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Chicken Curry Rice",
+                    "parking_space": "Plenty of parking",
+                    "parking_options": "Paid parking lot"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR4a3RtUENnEAE!2m1!1s0x0:0xbd25b0ea80b5d96f!3m1!1s2@1:CIHM0ogKEICAgIDxktmPCg%7CCgsI89n1owYQ0PT7LQ%7C?hl=en-US",
+                "rating": 2,
+                "snippet": "The ambience of the shop is very big and cosy.  The food was expensive as compared to other sushi restaurant but there's no selling point to justify the price. For example a bite of brownie is RM4.30 and the 5 piece Sashimi is RM20.\n\nOverall, okay taste but you can get far cheaper at other sushi place in Malaysia.",
+                "likes": 2
+            }
+        ],
+        "types": [
+            "Japanese restaurant"
+        ],
+        "address": "Ayer8, Jalan P8e2/10, Presint 8, 62250, Putrajaya, Malaysia"
+    },
+    {
+        "place_id": "ChIJQZA3xCS3zTERv_JiMbHYnbc",
+        "title": "Furu Japanese Restaurant (Tamarind Square)",
+        "gps_coordinates": {
+            "latitude": 2.9195689,
+            "longitude": 101.63716769999999
+        },
+        "rating": 4.5,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNMN01LZ2Z3EAE!2m1!1s0x0:0xb79dd8b13162f2bf!3m1!1s2@1:CIHM0ogKEICAgICL7MKgfw%7CCgwIwei6swYQuMaG1wE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "I usually do my homework before going for Jap, but this is just cincai pick - fortunately the food is so so gooood. The quality of the sashimi is amazing, you do get fat piece of sashimi be it maguro, salmon or yellow tail.\n\nThey promoted the oyster plenty, must have been their specialty, I will gave to revisit for the oyster.\n\nOverall very good place to get your fill on japanese food.",
+                "likes": 0,
+                "details": {
+                    "food": 5,
+                    "service": 5,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNwX2Q2cWRnEAE!2m1!1s0x0:0xb79dd8b13162f2bf!3m1!1s2@1:CIHM0ogKEICAgICp_d6qdg%7CCgwIvIjMpgYQ2KfgrAM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "First time here, the staff was very friendly, she explained to us the menu, there are so many to choose from. The salmon sashimi was fantastic. The oysters were very fresh, you can taste the freshness clearly. The restaurant was kid friendly too as baby chairs are available. The environment is also very calming and you can have an enjoyable dinner.",
+                "likes": 3,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 40–60",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Salmon Sashimi",
+                    "parking_space": "Plenty of parking",
+                    "parking_options": "Paid parking lot, Valet"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNkMjRPVWV3EAE!2m1!1s0x0:0xb79dd8b13162f2bf!3m1!1s2@1:CIHM0ogKEICAgICd24OUew%7CCgsIxc7IrgYQ6NyRYA%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Food is slightly on the high side but the taste is premium. Overall a good place to have Japanese food.",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 60–80",
+                    "food": 4,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURlMXRfMmhnRRAB!2m1!1s0x0:0xb79dd8b13162f2bf!3m1!1s2@1:CIHM0ogKEICAgIDe1t_2hgE%7CCgwIufOzmgYQgKzNkwI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "The food is awesome. Fresh seafood. The taste is great even the ramen with smoke duck. Presentation of food on table also is out from my mind. They serving everything is flaming and all the food in the right temperature while we eating. The customer service also great. The place very clean and chill. You can see the restaurant is normal but the menu is great and many choices. Sure in my bucket list to come again.",
+                "likes": 1,
+                "details": {
+                    "price_per_person": "RM 200+",
+                    "food": 5,
+                    "service": 5,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Salmon Sashimi"
+                },
+                "response_from_owner": "Thank you for your support. Hope to see u again soon 😊"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURCLXBpeS1nRRAB!2m1!1s0x0:0xb79dd8b13162f2bf!3m1!1s2@1:CIHM0ogKEICAgIDB-piy-gE%7CCgwIjoybngYQ6Mqa1gM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "FOOD HERE ARE 💯❣️ Best Japanese food I've tried 😋\n\nWe went there on a weekend, I made a reservation but crowd was okay to walk in. I think I made the best decision to have a birthday dinner here.\n\nFood that we ordered (a lot for 2 pax hahahah but fully satisfied):\n- Mikami Sashimi Moriawase: ours was salmon, tuna and butterfish\n- Ebi Tempura\n- Salmon Pumpkin Cheese\n- Unagi Kabayaki: I suggest to eat with rice to balance the saltiness\n- Yaki Gyoza\n- Smoke Duck Ramen",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 120–140",
+                    "food": 5,
+                    "atmosphere": 4,
+                    "parking_space": "Plenty of parking",
+                    "parking_options": "Paid parking lot, Valet"
+                },
+                "response_from_owner": "Thank you for your support. Hope to see u again soon 😊"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURocDVhQ1VnEAE!2m1!1s0x0:0xb79dd8b13162f2bf!3m1!1s2@1:CIHM0ogKEICAgIDhp5aCUg%7CCgwIzrPcoAYQ8OyP_AE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Came after reading some good reviews and we weren't disappointed at all! Tuna tataki was fresh and it compliments the salad. Kid's set meal looks enticing although as well. The sautéed beef with marinated chilli sauce was definitely extraordinary and I personally loved it. Would be back to try other dishes from the menu",
+                "likes": 1,
+                "details": {
+                    "meal_type": "Lunch"
+                },
+                "response_from_owner": "Thank you for your support. Hope to see u again soon 😊"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNscU9hSzFRRRAB!2m1!1s0x0:0xb79dd8b13162f2bf!3m1!1s2@1:CIHM0ogKEICAgIClqOaK1QE%7CCgwI48XIqgYQwIWU0AE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Awesome experience! Definitely will try it again. The oysters are super fresh. Been wanting to eat oyster.",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 100–120",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Salmon Sashimi, Seafood"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNPMHRyVGhnRRAB!2m1!1s0x0:0xb79dd8b13162f2bf!3m1!1s2@1:CIHM0ogKEICAgICO0trThgE%7CCgsIm-L1lAYQiIDlNg%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Mind blowing meal. Situated quite secluded at the tamarind Square. Nonethelesss, food are amazing. Delicious, good portion and good for family sharing. Did not try the sashimi, but saw many customers ordered it. Food range as per usual sushi shop, but this has great quality. Services and owner ( i think the husband and wife)  are friendly. Sushi are enormous size and so filling after taking. Miso soup delicious as well. Recommended. If you are coming in big group, better reserve prior then. Crowded at peak hours.",
+                "likes": 10,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40"
+                },
+                "response_from_owner": "Thank you for your support and kind words. Hope to see u again soon 😊"
+            }
+        ],
+        "types": [
+            "Japanese restaurant"
+        ],
+        "address": "C-03-02 Tamarind Square, Persiaran Multimedia, Cyber 11, 63000 Cyberjaya, Selangor, Malaysia"
+    },
+    {
+        "place_id": "ChIJY6kgzOPJzTER0IgTuZWg7NM",
+        "title": "Sushi King Alamanda",
+        "gps_coordinates": {
+            "latitude": 2.9395275,
+            "longitude": 101.7106189
+        },
+        "rating": 4.1,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6ME9Xelp3EAE!2m1!1s0x0:0xd3eca095b91388d0!3m1!1s2@1:CIHM0ogKEICAgICz0OWzZw%7CCgwI_effsgYQqJGUkgM%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Everything is ok, only taken on the conveyor of hard fried salmon skin, maybe it has been too long in the conveyor. The service is good and the restaurant is well managed.",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 4,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNWeDRiWUJBEAE!2m1!1s0x0:0xd3eca095b91388d0!3m1!1s2@1:CIHM0ogKEICAgICVx4bYBA%7CCgwIs5PSqwYQ4IrCjAE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Redeem my birthday reward here. Got RM10 off plus free dessert. Staffs are friendly and so helpful. 😍",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR6cjZheGFnEAE!2m1!1s0x0:0xd3eca095b91388d0!3m1!1s2@1:CIHM0ogKEICAgIDzr6axag%7CCgwIuOKrswYQyOOyrwI%7C?hl=en-US",
+                "rating": 1,
+                "snippet": "Food was slow as hell. Even the store was not busy at all. Manager was not responsive to the situation. Just sit at the corner & play with his phone. Kitchen staff super slow. Took them more than 50minutes to prepare Kids Meal. Food portion was small compare to the other outlet.",
+                "likes": 0,
+                "details": {
+                    "service": 1,
+                    "meal_type": "Dinner",
+                    "food": 2,
+                    "atmosphere": 1
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6OG83VmZnEAE!2m1!1s0x0:0xd3eca095b91388d0!3m1!1s2@1:CIHM0ogKEICAgICz8o7Vfg%7CCgsIjPLqsgYQ2NSuFw%7C?hl=en-US",
+                "rating": 1,
+                "snippet": "Ordered sushi from grab for dinner and  they delivered some stale sushi, threw the rest away and decided not to follow up but today I have constant increasing stomach pains and diarrhoea constantly. This has affected my performance and my mood today.  I still have work to finish and don’t have the luxury to take MC as I need to finish task with a deadline soon.\n\nWent to clinic to get meds and letter/mc as proof. Beware if you’re using grab delivery for sushi items from this branch.\n\nPlease train your workers NOT to put stale sushi to grab delivery customers. We are still customers and this is food safety. I have a strong stomach and I can easily say if a child ate this they would probably end up in hospital for food poisoning.\n\nSushi king management pls pay attention and train you staff properly. I will not patronise any of your establishments again. Lack of food safety to me is a disrespect for your customers.",
+                "likes": 0,
+                "details": {
+                    "service": 1,
+                    "food": 1
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNldGNHMVlBEAE!2m1!1s0x0:0xd3eca095b91388d0!3m1!1s2@1:CIHM0ogKEICAgICetcG1YA%7CCgsIkailmQYQgJngdg%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "A great place to eat sushi and other Japanese food; miso, ramen, niku, curry, etc.\n\nHave to download their Sushi King MY applications for many offers and promotions, including Bonanza.\n\nThis outlet/branch provide handwash and self order tablet to order.\n\nStaff: very busy, but they are kind to customers and attentive to us. Very polite, good, well spoken and humble. Thumbs up! 👍👍",
+                "likes": 0,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "vegetarian_options": "Have edamame",
+                    "parking": "In mall, so they have plenty of parkings",
+                    "kid_friendliness": "Yuo, not so spicy and small portion",
+                    "wheelchair_accessibility": "Yup, it is a mall, so theh are shop lot"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNUeVpYM3JRRRAB!2m1!1s0x0:0xd3eca095b91388d0!3m1!1s2@1:CIHM0ogKEICAgICTyZX3rQE%7CCgwIrr6XsgYQuMnClgI%7C?hl=en-US",
+                "rating": 1,
+                "snippet": "VERYYY BADDD. Food was cold as F. Ordered spicy yakiniku, the meat was cold including the rice. The cold macha had VERYYY light colour and taste like plain water. The Goma lidako had bone it in. Why??? Worst sushi I ever had. I had been to many sushi king but this is the worst one yet. SUSHI KING if you read this, please upgrade your food.",
+                "likes": 0,
+                "details": {
+                    "service": 1,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 100–120",
+                    "food": 1,
+                    "atmosphere": 1
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNHcXFic1BBEAE!2m1!1s0x0:0xd3eca095b91388d0!3m1!1s2@1:CIHM0ogKEICAgICGqqbsPA%7CCgwIoMDeiwYQyO7L3QI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "If you need a quick break and feel the urge to eat alone while enjoying your meals quietly, it is one of the places worth to try.\n\nI enjoy eating plates of sushi paired with a bowl of miso soup. Not so much noises. Not crowded. Just nice.",
+                "likes": 1
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURScmJiQ0JREAE!2m1!1s0x0:0xd3eca095b91388d0!3m1!1s2@1:CIHM0ogKEICAgIDRrbbCBQ%7CCgwIns_hogYQ2Lf07wE%7C?hl=en-US",
+                "rating": 3,
+                "snippet": "Went here because I wanted to eat salmon skin, but they dont have. Overall, the freshness of sashimi is just okay. Not really fresh, i wouldnt say it suits the price as the price is higher now compared to before, and the green tea price has also increased.\n\nThe other salmon tht I bought was good. I like the taste, but it is a bit too much “bone” for me, so it bit hard to eat.",
+                "likes": 1,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40"
+                }
+            }
+        ],
+        "types": [
+            "Japanese restaurant",
+            "Conveyor belt sushi restaurant"
+        ],
+        "address": "Lot G33/34, Ground Floor, Alamanda Putrajaya Shopping Centre, Jalan Alamanda, Presint 1, 62000 Putrajaya, Malaysia"
+    },
+    {
+        "place_id": "ChIJweLeKLC1zTERKV_3dLDcKR4",
+        "title": "Sushi Hiro Puchong",
+        "gps_coordinates": {
+            "latitude": 3.0265166,
+            "longitude": 101.6166097
+        },
+        "rating": 4.7,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUNUxqd1JREAE!2m1!1s0x0:0x1e29dcb074f75f29!3m1!1s2@1:CIHM0ogKEICAgICT5LjwRQ%7CCgsIuuD8sQYQyM72dA%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Decently priced Japanese restaurant around Puchong area. Food is good for its price, friendly and attentive waiters/waitresses. Good experience dining there, portion is just right. The one thing I didn't expect is how quiet this place is, very calming background music too. Good place to catch up with friends and family.",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Salmon Belly"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqMGFtTlpBEAE!2m1!1s0x0:0x1e29dcb074f75f29!3m1!1s2@1:CIHM0ogKEICAgIDj0amNZA%7CCgwI96PYsQYQ8JP-0wE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Food is fresh, staff friendly & good service.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Noodle Soup"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUMWVLN1BREAE!2m1!1s0x0:0x1e29dcb074f75f29!3m1!1s2@1:CIHM0ogKEICAgICT1eK7PQ%7CCgwI5_-csgYQ0OzAhAI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Good service, price affordable and big portion of food. Will come again.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 4,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNEcmJXbzZBRRAB!2m1!1s0x0:0x1e29dcb074f75f29!3m1!1s2@1:CIHM0ogKEICAgICDrbWo6AE%7CCgsIh-SksAYQiKOEDQ%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "I like the services here . The staff is polite and helpful. Variety choices of Japanese food with great taste. Environment is comfortable with soft background music. Thumb up , recommended to visit !",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Chicken Shiogayaki Don, Salmon Mentai"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM5bzY2V1lnEAE!2m1!1s0x0:0x1e29dcb074f75f29!3m1!1s2@1:CIHM0ogKEICAgIC9o66WYg%7CCgwI3M2vrwYQ6M7zsAE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Nice environment &service. I love to have lunch/dinner with my family here. The ingredients also fresh and nice prepared.",
+                "likes": 0,
+                "details": {
+                    "food": 5,
+                    "service": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNUcGNHcGdBRRAB!2m1!1s0x0:0x1e29dcb074f75f29!3m1!1s2@1:CIHM0ogKEICAgICTpcGpgAE%7CCgwI4OObsgYQuP6AtAI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Good place to drop to have your food.\nPrefect portion\nWorth it 👍🏻",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 1–20",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNGcnUzS21RRRAB!2m1!1s0x0:0x1e29dcb074f75f29!3m1!1s2@1:CIHM0ogKEICAgICFru3KmQE%7CCgwIicTyqQYQ-MWrpQI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Good service. good food. nice environment. will come again.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 40–60",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNSNnVmdTVnRRAB!2m1!1s0x0:0x1e29dcb074f75f29!3m1!1s2@1:CIHM0ogKEICAgICR6ufu5gE%7CCgwI7qSwsAYQsMrEgwI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "This is the new, cheaper and better version of sushi mentai! (Perhaps like when they first opened)\nThe food is cheaper and fresher.\nThe place is new and clean\nThe order is prepared immediately and arrives soon after ordered.\nEven though they were mentally questioning the order and looked over thinking perhaps we might have accidentally ordered extras but they brought the mountain of food ordered quickly! 😝",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 60–80",
+                    "food": 5,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Salmon Belly, Grilled Scallop Yaki, Shake Sashimi Karraage Tempura, Sashimi Moriawase, Sushi and Sashimi, Squid, Tuna"
+                }
+            }
+        ],
+        "types": [
+            "Japanese restaurant"
+        ],
+        "address": "25, Jalan Puteri 1/4, Bandar Puteri Puchong, 47100 Puchong, Selangor, Malaysia"
+    },
+    {
+        "place_id": "ChIJZeQ3oP3LzTER4hzv2iQVKPY",
+        "title": "Nippon Sushi Bandar Baru Bangi",
+        "gps_coordinates": {
+            "latitude": 2.961762,
+            "longitude": 101.75231439999999
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNsOHVhc3ZnRRAB!2m1!1s0x0:0xf6281524daef1ce2!3m1!1s2@1:CIHM0ogKEICAgICl8uasvgE%7CCgsI9ZfTqgYQsIX9UQ%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Been coming here since 2019. The taste of the food haven’t change. Still as good as the first time I had any of those. Please try their Japanese Curry and Cheesy Chicken Karage. You should give their sushi from the belt a try too because it was good.\n\nWill come back, again and again. No doubt!",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 40–60",
+                    "food": 5,
+                    "atmosphere": 4,
+                    "parking_space": "Somewhat difficult to find parking"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM5blBtbkt3EAE!2m1!1s0x0:0xf6281524daef1ce2!3m1!1s2@1:CIHM0ogKEICAgIC9nPmnKw%7CCgsIq9KVrwYQqPuvIg%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Great choice of sushi. A lil bit expensive for their rm 4 and rm 5 per plate option choice but still gonna repeat it again. The mala ramen quite good just hoping they would offer some creamy but spicy broth next time.",
+                "likes": 2,
+                "details": {
+                    "food": 5,
+                    "service": 3,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURObU5ldFVnEAE!2m1!1s0x0:0xf6281524daef1ce2!3m1!1s2@1:CIHM0ogKEICAgIDNmNetUg%7CCgsI0qSvrQYQgIPcXg%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Sushi is nice and fresh.. lamb a bit liat.. otherwise all good! 😁",
+                "likes": 2,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 80–100",
+                    "food": 4,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNEX3ZuT293RRAB!2m1!1s0x0:0xf6281524daef1ce2!3m1!1s2@1:CIHM0ogKEICAgICD_vnOowE%7CCgwI2cWXsAYQ-MeHlQI%7C?hl=en-US",
+                "rating": 2,
+                "snippet": "Very poor quality gyudon. Very dry and beef like rubber. Since when japanese eat gyudon with cucumber and tomato ? ..noraini ?",
+                "likes": 0,
+                "details": {
+                    "service": 1,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 1,
+                    "atmosphere": 3
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNOOE9PTS1RRRAB!2m1!1s0x0:0xf6281524daef1ce2!3m1!1s2@1:CIHM0ogKEICAgICN8OOM-QE%7CCgwI7P7_rAYQgLPIhgI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Come early, abt 8pm to secure seats. Lot of varities...must know what you want. My preference is either salmon teppanyaki or beef tenppanyaki dan rice with beef and mushroom. Also love the tempura set. Delicious.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURWOEs2RllnEAE!2m1!1s0x0:0xf6281524daef1ce2!3m1!1s2@1:CIHM0ogKEICAgIDV8K6FYg%7CCgwIsZLXqwYQkOzjrAE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "My first time trying at bangi branch, usually i went to kajang branch. Love to eat their flossy salmon skin. But this branch served lesser portion and less crispy. So no 5 stars from me",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 4,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Salmon Sashimi"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURabHM2SG1RRRAB!2m1!1s0x0:0xf6281524daef1ce2!3m1!1s2@1:CIHM0ogKEICAgIDZls6HmQE%7CCgwImoW-rQYQuMm-xAE%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "A lot of food variety here. I love the teriyaki saba (fish grill) served with rice. And the sushi is fresh too.",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 40–60",
+                    "food": 4,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Sushi to Saba Teriyaki Set"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURqdWVYQ3RBRRAB!2m1!1s0x0:0xf6281524daef1ce2!3m1!1s2@1:CIHM0ogKEICAgIDjueXCtAE%7CCgwIw9TcsQYQgP2e7QI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Their salmon, salmon belly and tuna tasted fresh. Their menu has even more varieties of sushi, teppayanki and even udon compared to other sushi outlets.",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Salmon Sashimi, Sashimi",
+                    "parking_space": "Somewhat difficult to find parking",
+                    "parking_options": "Paid parking lot, Paid street parking",
+                    "parking": "Have to pay on weekdays and free on weekends and after 6.30 pm."
+                }
+            }
+        ],
+        "types": [
+            "Japanese restaurant"
+        ],
+        "address": "Jalan Medan Pb 2a, Seksyen 9, 43650 Bandar Baru Bangi, Selangor, Malaysia"
+    },
+    {
+        "place_id": "ChIJmymb6YXLzTERCE-_Whzt-nM",
+        "title": "Yuuki Teppan & Sushi",
+        "gps_coordinates": {
+            "latitude": 2.9896898999999997,
+            "longitude": 101.790897
+        },
+        "rating": 4.2,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNqNzRtaERnEAE!2m1!1s0x0:0x73faed1c5abf4f08!3m1!1s2@1:CIHM0ogKEICAgICj74mhDg%7CCgwI2-2zsQYQ0NKg1AM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Cosy Japanese restaurant with limited seating. Decor is Japanese inspired and wooden partitions create some privacy for diners. Some calming music plays in the background. Service can be a little slow during peak hours as there are only 2 service staff to take orders and serve, clean etc. Food also takes some time to arrive - suggest you allow 30 minutes or thereabouts. Don’t expect food to come in order either, your starters may arrive at the end of your meal. Their kitchen needs better management or more manpower.\n\nFood is generally good but you’ll get smallish portions. Raw fish and salads are acceptably fresh. Meats are good quality. Gyoza (pork) is recommended.",
+                "likes": 0,
+                "details": {
+                    "service": 3,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 40–60",
+                    "food": 4,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR0MnZlcEtBEAE!2m1!1s0x0:0x73faed1c5abf4f08!3m1!1s2@1:CIHM0ogKEICAgIDt2vepKA%7CCgsI88_7rQYQ0OexVQ%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Have a delightful dinner. The pork rame is yummy and the broth is very thick. Unagi rice is served in hot stone.  Seems that every bite also have the umagi taste.",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 40–60",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN0NS1yS3hnRRAB!2m1!1s0x0:0x73faed1c5abf4f08!3m1!1s2@1:CIHM0ogKEICAgICt5-rKxgE%7CCgwI39PtrQYQiNTg0gI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Good food at acceptable pricing. The sashimi was fresh and tasty. Set lunch had many choices with good value proposition. No sst no service charge. So great value.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 40–60",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "parking_space": "Somewhat difficult to find parking",
+                    "parking_options": "Paid parking lot"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMxcElIQ2pRRRAB!2m1!1s0x0:0x73faed1c5abf4f08!3m1!1s2@1:CIHM0ogKEICAgIC1pIHCjQE%7CCgwI88WZrAYQsMiu0AI%7C?hl=en-US",
+                "rating": 2,
+                "snippet": "⌛Went there for lunch on Monday at around 12.15p.m. It wasn't full house at that time.\n\n🦥3 of my colleagues and I ordered 2 sets lunch and 2 ala carte meals, but it took more than 50 minutes to get them all!! 😤Obviously, they are lacking of man power there and it was chaotic to see them rushing all the way. Poor management. Highly not recommended if you have short and limited  lunch time.\n\n🍣Their food was normal and somehow my rice with salmon was not up to my expectation. I don't think I will return to this place in near future.",
+                "likes": 2,
+                "details": {
+                    "food": 3,
+                    "service": 1,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURWc0pLTmpBRRAB!2m1!1s0x0:0x73faed1c5abf4f08!3m1!1s2@1:CIHM0ogKEICAgIDVsJKNjAE%7CCgwIx-_WqwYQuICL6wE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "The Japanese food was great. I had the kitsune noodle and it was delicious. Will come back soon as I missed out their tofu cheesecake",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Agedashi Tofu, Reverse California Roll"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNSbmFiTlVBEAE!2m1!1s0x0:0x73faed1c5abf4f08!3m1!1s2@1:CIHM0ogKEICAgICRnabNUA%7CCgwI9cnFoQYQsJ7Q8wI%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Easily one of the best Japanese food in kajang town just a tat salty to the food. Enjoyed our dinner along with a nice and quiet setup.\n\nOur second visit and definitely coming back for more salmon head!",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 40–60",
+                    "food": 4,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Unagi Claypot Rice"
+                },
+                "response_from_owner": "Thank you for visiting us and we hope your experience is awesome. Looking forward to serving you again soon!"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN4NHA3ZGpRRRAB!2m1!1s0x0:0x73faed1c5abf4f08!3m1!1s2@1:CIHM0ogKEICAgICx4p7djQE%7CCgwI1YLyowYQ6O6kqwE%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Had a pleasant dinner at this restaurant. Food was good but a bit small in portion. Our order of a tonkatsu was good although probably slightly undercooked so was the pork gyoza. Would have liked it better if they were slightly more cooked on the inside.\n\nThe dons were good. Ramen tonkotsu was also alright but the soup was a tad diluted. Would have preferred it to be thicker as with the same served by the famous chain.\n\nAll in, service was good and dining area was comfortable.",
+                "likes": 2,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 40–60",
+                    "food": 4,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR4dEtTV01nEAE!2m1!1s0x0:0x73faed1c5abf4f08!3m1!1s2@1:CIHM0ogKEICAgIDxtKSWMg%7CCgwIzM7oowYQ2MPoyAE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Last visit: 14 May 2023\n\nVerdict: I will revisit this restaurant. Because its foods are enjoyable. This is by far my first choice Japanese restaurant in Kajang.\n\nFood quality:\n- Ten Don: 10/10. The fried prawns taste specially good, very fresh.\n- Salmon Mentai Rice Bowl: 10/10. The salmon are fresh. Together with the mentai sauce, it taste heavenly tasty.\n- Cold Soba: 10/10. The matcha soba is delicious.\n\nService: Good\n\nEnvironment:\n- Design of the restaurant is aesthetic.\n- Restaurant is small, limited seating available.\n- Temperature is comfortable.",
+                "likes": 3,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 1–20",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "vegetarian_options": "They offer vegetarian options.",
+                    "parking_space": "Plenty of parking",
+                    "parking_options": "Paid parking lot, Paid street parking",
+                    "parking": "There are plenty of parking around that area. There is a school at that area, so avoid to visit during the time when school finished.",
+                    "kid_friendliness": "The restaurant is not a big place for your kids to run around.",
+                    "wheelchair_accessibility": "The design of the restaurant and the arrangement of seating is a bit too tight for wheelchair to move around."
+                }
+            }
+        ],
+        "types": [
+            "Japanese restaurant"
+        ],
+        "address": "13A, Jalan S10/3, Bandar Kajang, 43000 Kajang, Selangor, Malaysia"
+    },
+    {
+        "place_id": "ChIJp8KHOFpLzDERG8e3K7MuGA0",
+        "title": "Sushi + Rotary Sushi Bar (Puchong)",
+        "gps_coordinates": {
+            "latitude": 3.0457788,
+            "longitude": 101.6228479
+        },
+        "rating": 4.2,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMxc3R2X0l3EAE!2m1!1s0x0:0xd182eb32bb7c71b!3m1!1s2@1:CIHM0ogKEICAgIC1stv_Iw%7CCgwI3YaurAYQwOX3yAM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Came here for lunch, arrived before 12pm on Christmas day. Not many customers yet, only 3 tables occupied. Ordered few dishses, tempura rice set is very big portion, kids meal also very nice. Somemore got promotion if order 5 plates sushi only cost RM3.33 per plate regardless of plate color. Worth the value compared to other Japanese restaurants that also sell Sushi.\n\nEnvironment also good, clean. Can view the street if sit near the window. Just that finding a parking would be a challnging task as this is a buy street. Get ready to walk a distance to the bar but it's good as an exercise :)\n\nGot a discount voucher of RM10, definitely will be back again before the voucher expires in Feb 2024 :D. Good marketing strategy.",
+                "likes": 2,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 100–120",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN6MU9mYXFBRRAB!2m1!1s0x0:0xd182eb32bb7c71b!3m1!1s2@1:CIHM0ogKEICAgICz1OfaqAE%7CCgwIrOflsgYQ4I_hiQM%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "The prices here are affordable, and there's a wide selection of sushi. They also have spaghetti. I personally recommend the curry udon and the salmon sushi.",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 4,
+                    "atmosphere": 4,
+                    "parking_space": "Somewhat difficult to find parking",
+                    "parking_options": "Free parking lot"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURkemZqX3dRRRAB!2m1!1s0x0:0xd182eb32bb7c71b!3m1!1s2@1:CIHM0ogKEICAgIDdzfj_wQE%7CCgwIiq7wrgYQkJGUiAI%7C?hl=en-US",
+                "rating": 3,
+                "snippet": "Food here are pretty decent and acceptable (although not the best) but the kids enjoy the rotating sushi bar, service is quite fast.. overall it’s still recommended for fast family meal..",
+                "likes": 0,
+                "details": {
+                    "food": 3,
+                    "service": 3,
+                    "atmosphere": 3
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNGcDUzYVp3EAE!2m1!1s0x0:0xd182eb32bb7c71b!3m1!1s2@1:CIHM0ogKEICAgICFp53aZw%7CCgwI0tiUqgYQwM6MkwE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "We went the time is like almost last call so there wasn't any more sushi on the conveyor belt but we can still order a la carte. The food came super fast maybe bcuz the kitchen slowing soon 😆 the food was delicious! The service was good & the staffs were nice.",
+                "likes": 0,
+                "details": {
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 40–60",
+                    "food": 5,
+                    "service": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNOaXNfVlZnEAE!2m1!1s0x0:0xd182eb32bb7c71b!3m1!1s2@1:CIHM0ogKEICAgICNis_VVg%7CCgwIqcKKrQYQiN6orwE%7C?hl=en-US",
+                "rating": 1,
+                "snippet": "The food quality is not good, it’s the first time I’ve eaten it and it’s so overcooked （Chawanmushi）..The service is also not good. The staff came to our table at 9 o'clock and asked put away the sauce..We hadn't even finished eating yet and asked clean up.",
+                "likes": 0,
+                "details": {
+                    "service": 1,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 1,
+                    "atmosphere": 1
+                },
+                "response_from_owner": "We sincerely apologize for this happened.We moreover look this issue and hopefully your next visit get better felling 😋❤️🙏"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6cGNQV2xnRRAB!2m1!1s0x0:0xd182eb32bb7c71b!3m1!1s2@1:CIHM0ogKEICAgIDzpcPWlgE%7CCgwI3pSfswYQiISRlwE%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Friendly staffs and food was amazingly delicious.",
+                "likes": 0,
+                "details": {
+                    "food": 4,
+                    "service": 5,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNWODZQbFdnEAE!2m1!1s0x0:0xd182eb32bb7c71b!3m1!1s2@1:CIHM0ogKEICAgICV86PlWg%7CCgwIntfQqwYQyIafmQE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Tried the sushi platter which I think it is really good idea for potluck occasion. Sushi are fresh and the ambience of the restaurant got Japan vibes.",
+                "likes": 2,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURSNTltSjJBRRAB!2m1!1s0x0:0xd182eb32bb7c71b!3m1!1s2@1:CIHM0ogKEICAgIDR59mJ2AE%7CCgsIj7zUogYQgIDdXg%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Came here for dinner a few times.  Today was not crowded as maybe it's a weekday. Food served is big portion and tastes good. Get a rm10 discount voucher for next dine in. Nice. Will come here for Japanese food when I'm craving for it.",
+                "likes": 0
+            }
+        ],
+        "types": [
+            "Japanese restaurant"
+        ],
+        "address": "1F-01, Kompleks Kenari, Jalan Kenari 19, Bandar Puchong Jaya, 47100 Puchong, Selangor, Malaysia"
+    },
+    {
+        "place_id": "ChIJUfb2GQzKzTERHQfLg6FBtvA",
+        "title": "Sushi Zanmai IOI City Mall",
+        "gps_coordinates": {
+            "latitude": 2.969932,
+            "longitude": 101.7137307
+        },
+        "rating": 4,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN4bWNQcnpBRRAB!2m1!1s0x0:0xf0b641a183cb071d!3m1!1s2@1:CIHM0ogKEICAgICxmcPrzAE%7CCgwIzsqmowYQuK-XwAM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "One of the best Japanese cuisine restaurants. The prices are reasonable, the food taste good, and the menu is comprehensive with lots of verities of Japanese food. Especially there are quite a lot verity of sushi.\n\nYou have to queue for sometime during dinner hours, so plan ahead. But overall service is great.",
+                "likes": 0,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 80–100",
+                    "recommended_dishes": "Spicy Unagi Roll, Mix Fried, Spicy EBI Ramen, Miso Soup"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqanBIcGVBEAE!2m1!1s0x0:0xf0b641a183cb071d!3m1!1s2@1:CIHM0ogKEICAgIDjjpHpeA%7CCgwI2P3RsQYQwP-txQI%7C?hl=en-US",
+                "rating": 1,
+                "snippet": "I came 2 days ago on wednesday, ordered sashimi and after eating that I got diarrhea. On the same day at night, I got fever 40celcius. As I writing this on Friday, im facing abdominal cramp & still not recovered from diarhea and its getting worst",
+                "likes": 0,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Lunch"
+                },
+                "response_from_owner": "Dear Nur Dayana Batrisya, \n\nThank you for the feedback. We sincerely apologize for the unpleasant experience. Would it be convenient if you could provide your mobile number to us at feedback@supersushi.com.my\n\nWe hope you could grant us a chance to personally apologize to you.\n\nThank you very much.\n\nRegards,\nManagement of Super Sushi Sdn Bhd"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURGXzhtVGt3RRAB!2m1!1s0x0:0xf0b641a183cb071d!3m1!1s2@1:CIHM0ogKEICAgIDF_8mTkwE%7CCgwIv9nCqgYQ6KnZngI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Title : Amazing food !! Comfortable.\n\nThis place is so nice, but always need to queue up before eat especially on weekend.\n\nWish they had more staff to handle since a bit slow to serve and prepare the table.\n\nLove the ambience ans atmosphere, very pleasing and comfortable.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNwek1YamdBRRAB!2m1!1s0x0:0xf0b641a183cb071d!3m1!1s2@1:CIHM0ogKEICAgICpzMXjgAE%7CCgwIis2XpgYQ4PeozgE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "As good as or better than sushi king for sure. In terms of taste and most importantly, price. These are our regular orders. I would try others but I'm too chicken when I am out with my kids--they are picky eaters. Also I am trying to lose weight. 😅 Next time iallah.",
+                "likes": 1,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Chicken Katsudon"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNGeDRmRFlREAE!2m1!1s0x0:0xf0b641a183cb071d!3m1!1s2@1:CIHM0ogKEICAgICFx4fDYQ%7CCgwItZeUqgYQkMGfggE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Had a great time at this place. With good food and perfect services from all the staff. Highly recommended for anyone looking for sushi place. Please make sure to try the soft shells crab mentai roll and tempura. Definitely will come back soon! Oh they also very thoughtful for giving us plate with spoon and fork for our toddler, she enjoys it so much. Thanks!",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 40–60",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Spicy Unagi Roll, Salmon Sashimi, Edamame, Prawn Tempura, Egg Tamago, Ramen Miso Ramen"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNoMUtxUExnEAE!2m1!1s0x0:0xf0b641a183cb071d!3m1!1s2@1:CIHM0ogKEICAgICh1KqPLg%7CCgwI8_2CnwYQoLv95gI%7C?hl=en-US",
+                "rating": 3,
+                "snippet": "Still require to queue during peak hours. Used to like this franchise but felt a little bit disappointed as the soup noddles served not hot any more and the taste also a bit funny. Fried noodles taste quite sweet though. Only the sushi still 👌.",
+                "likes": 0,
+                "details": {
+                    "service": 3,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 3,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN1djcyNlRBEAE!2m1!1s0x0:0xf0b641a183cb071d!3m1!1s2@1:CIHM0ogKEICAgICuv726TA%7CCgwI5pjNlwYQ4KPjlwI%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "I'm having dinner at here to celebrate my Dad's birthday. My family and I are satisfied with food's quality. Price is affordable for me to dine in here once a while. Remember, come early during Friday, Saturday, Sunday and Public Holiday, as there will be a long queue starts from 7:00 pm. It's worth the queue. My dinner for 3 pax costs less than RM 100 for medium level Japanese cuisine.",
+                "likes": 2,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 80–100"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ2ci1XUEZREAE!2m1!1s0x0:0xf0b641a183cb071d!3m1!1s2@1:CIHM0ogKEICAgID6r-WPFQ%7CCgwIrvOkiwYQ-MWS2gE%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Follow SOP to observe proper social distancing, appreciate the distance arrangement between the tables. The jellyfish, however, was a tad too salty. Other than that, food was well done and taste great. I was able to enjoy my lunch with my family and my son’s girlfriend. Great environment to spend some time after meals and have a chit-chat. We had an amazing time there and would definitely return again!",
+                "likes": 1
+            }
+        ],
+        "types": [
+            "Conveyor belt sushi restaurant",
+            "Japanese restaurant"
+        ],
+        "address": "No.L2-30, Level 2, to IOI City Mall, Ioi Resort, 62502 Putrajaya, Malaysia"
+    },
+    {
+        "place_id": "ChIJ03T9LBS3zTER7ybeZYbm9_0",
+        "title": "Restaurant Cosmo Kitchen & Thai",
+        "gps_coordinates": {
+            "latitude": 2.9205862,
+            "longitude": 101.6358753
+        },
+        "rating": 4.5,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6bFlxUTZ3RRAB!2m1!1s0x0:0xfdf7e68665de26ef!3m1!1s2@1:CIHM0ogKEICAgIDzlYqQ6wE%7CCgwIweufswYQ8J60pQE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "1st time here.. food was delicious, good portions, and well served!\nWill definitely repeat to try out other food & would love to try their cakes.",
+                "likes": 0,
+                "details": {
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "service": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Butter Chicken Rice"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6emFyQzZ3RRAB!2m1!1s0x0:0xfdf7e68665de26ef!3m1!1s2@1:CIHM0ogKEICAgIDzzarC6wE%7CCgsIw5qhswYQ2LbUYQ%7C?hl=en-US",
+                "rating": 3,
+                "snippet": "Visited the place with my partner. The server only gave one menu and I had to take another menu myself. Food was a bit late even the shop was empty. Ordered a orange juice but taste like packet juice where you can find from 7-11 (paid 6.99 for it).\n\nOverall food taste wise is all right. But the service and the drink, made me think twice to come again.",
+                "likes": 0,
+                "details": {
+                    "service": 2,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 4,
+                    "atmosphere": 3,
+                    "recommended_dishes": "Butter Chicken Rice",
+                    "parking_space": "Plenty of parking",
+                    "parking_options": "Paid parking lot"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMxdk03UkpREAE!2m1!1s0x0:0xfdf7e68665de26ef!3m1!1s2@1:CIHM0ogKEICAgIC1vM7RJQ%7CCgwIutylrAYQ2LCrkwM%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Went in the evening around 3.30 pm. Ordered thru qr code. The food came a little bit late even tho there was no crowd, but the food was freshly prepared. Ordered chicken karage ramen, it was good, only that the egg was a bit overcooked. Buttermilk chicken w rice and buttermilk pasta was also great. Reasonably priced items. Recommended.",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Butter Chicken Rice"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNWNzZyck1nEAE!2m1!1s0x0:0xfdf7e68665de26ef!3m1!1s2@1:CIHM0ogKEICAgICV76rrMg%7CCgsIkIrUqwYQ0JfLcQ%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Reasonabled pricedThai food for the portion of set meal. Great job maitaining such a good valued gor money meal.",
+                "likes": 0,
+                "details": {
+                    "service": 3,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 1–20",
+                    "food": 4,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURULW8zbmpRRRAB!2m1!1s0x0:0xfdf7e68665de26ef!3m1!1s2@1:CIHM0ogKEICAgIDT-o3njQE%7CCgsIj7LAsgYQuL2YVQ%7C?hl=en-US",
+                "rating": 2,
+                "snippet": "Came for a quick breakfast before doing errands. When arrived, they were only just opening. Food took so long. The cutleries weren’t given to us. When paying, they only took cash that day- not even QR. One of the staff merely pointed out direction of ATM, i had to find it myself. Food was decent, but don’t come in the mornings unless you want to wait for half an hour.",
+                "likes": 0,
+                "details": {
+                    "food": 4,
+                    "service": 1,
+                    "atmosphere": 2
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNkcU43bTJBRRAB!2m1!1s0x0:0xfdf7e68665de26ef!3m1!1s2@1:CIHM0ogKEICAgICdqN7m2AE%7CCgsI4vefrgYQgN-KfQ%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Hearty food and fast service. The place may look dull but the food and services are great.",
+                "likes": 3,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 4,
+                    "atmosphere": 3,
+                    "recommended_dishes": "Basil Rice"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURobjd1YjZBRRAB!2m1!1s0x0:0xfdf7e68665de26ef!3m1!1s2@1:CIHM0ogKEICAgIDhn7ub6AE%7CCgsIpMrmoAYQ4ILIfQ%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Cosmo Kitchen is a fantastic restaurant that offers a diverse range of cuisines, including Thai, Japanese, Malay, and Western. Located in Mandarin Square, this restaurant boasts an extensive and well-curated menu that is sure to please any palate.\n\nThe staff at Cosmo Kitchen is friendly, attentive, and knowledgeable about the different dishes on the menu. They are happy to offer recommendations and cater to individual dietary needs. The ambiance is cozy and inviting, making it perfect for any occasion.\n\nThe staff at Cosmo Kitchen is friendly, attentive, and knowledgeable about the different dishes on the menu. They are happy to offer recommendations and cater to individual dietary needs. The ambiance is cozy and inviting, making it perfect for any occasion.\n\nBut the real star of the show at Cosmo Kitchen is the food. I had the pleasure of trying the pad Thai, sushi rolls, beef rendang, and steak, and each dish was expertly prepared with fresh ingredients that were bursting with flavor. The pad Thai was particularly outstanding.\n\nOverall, Cosmo Kitchen is an excellent restaurant that I highly recommend. The food, service, and ambiance are all top-notch, making it a must-visit for anyone in the area. If you're looking for some of the best Thai, Japanese, Malay, and Western food around, then Cosmo Kitchen is definitely worth a visit. Don't miss out on the opportunity to enjoy a fantastic dining experience!",
+                "likes": 4
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN5M096RXF3RRAB!2m1!1s0x0:0xfdf7e68665de26ef!3m1!1s2@1:CIHM0ogKEICAgICy3OzEqwE%7CCgsI7uivgAYQ-MHDWw%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Always love this restaurant! affordable price and the food is yummy❤️❤️ I love their fried wantan with thai sauce. If come there always order 2-3 bowls bc i like it so much. The restaurant is pretty comfy and cozy, the toilet is clean and neat. The employees are fine and friendly. Keep it up!",
+                "likes": 3
+            }
+        ],
+        "types": [
+            "Restaurant",
+            "Asian restaurant"
+        ],
+        "address": "D3-03-09 and 10, Tamarind Square Jalan Multimedia Cyber10, 63000 Cyberjaya, Selangor, Malaysia"
+    },
+    {
+        "place_id": "ChIJ1Q-YEGpNzDERXk1HFPD7O90",
+        "title": "Sushi Foo",
+        "gps_coordinates": {
+            "latitude": 3.0942285999999997,
+            "longitude": 101.59833859999999
+        },
+        "rating": 5,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURUZ191LUpnEAE!2m1!1s0x0:0xdd3bfbf014474d5e!3m1!1s2@1:CIHM0ogKEICAgIDTg_u-Jg%7CCgwI0prQsgYQwJeT9QI%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Hidden gem, located in a quiet business center in Kelana Jaya, Petaling Jaya. Sushi Foo is a highly rated omakase restaurant overlooking a beautiful lake. But you'll be happy to find the food here is just as good as in Japan. Lunch menu is much affordable compare to dinner where Sushi Foo only serve omakase menu.\nIf you're a fan of japanese food, this restaurant is worth checking-out.",
+                "likes": 1
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM5NVBfdGF3EAE!2m1!1s0x0:0xdd3bfbf014474d5e!3m1!1s2@1:CIHM0ogKEICAgIC95P_taw%7CCgwIu4-NrwYQ0J30sAM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Delicious meal, in a calm, quiet, comfortable space. Thanks, Chef CK and your team, for working tirelessly to make our dinner memorable. Flounder and scallop sushi, fresh jellyfish, and sea bream in clear soup stood out. Sake prices are fair. Easy covered parking in the evening, and a pretty view over the lake in front.",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 200+",
+                    "food": 5,
+                    "atmosphere": 5
+                },
+                "response_from_owner": "Thank you for your like and support ☺️🙏"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ5N09YYW5RRRAB!2m1!1s0x0:0xdd3bfbf014474d5e!3m1!1s2@1:CIHM0ogKEICAgID97OXanQE%7CCgwI56PKrwYQyPa-mAM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "It's my first time to have the omakase, and thanks to Sushi Foo that I'm able to have such extraordinary experience. The food are really fresh and it's amazing. Great vibes from the environment too which further enhance the experience.",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 120–140",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "parking_space": "Plenty of parking",
+                    "parking_options": "Free parking lot"
+                },
+                "response_from_owner": "Thank you for your like and support ☺️🙏"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN0bFAyb2pBRRAB!2m1!1s0x0:0xdd3bfbf014474d5e!3m1!1s2@1:CIHM0ogKEICAgICtlP2ojAE%7CCgwI2rXdrQYQ-Oe7iwM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Love the omakase here, ingredients very fresh and the chef is friendly too.\nThe price is affordable too. Will come back here for more in the future. 😍😍😍\nThe atmosphere is quiet and relaxing ☺️\nHighly recommended for those who wanna try this place out",
+                "likes": 2,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "food": 5,
+                    "atmosphere": 5
+                },
+                "response_from_owner": "Thank you for your like and support ☺️🙏"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUROa2RIVFV3EAE!2m1!1s0x0:0xdd3bfbf014474d5e!3m1!1s2@1:CIHM0ogKEICAgIDNkdHTUw%7CCgwIo9i9rQYQwJjNpwM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Excellent place for Omakase! Ingredients are very fresh. Very authentic and unique jap food. Chawamushi is a winner. Fish chosen for sushi are also very special and fresh. Chef has many years of experience. Must try!",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "food": 5,
+                    "atmosphere": 5
+                },
+                "response_from_owner": "Thank you for your like and support 🤗🙏"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURkcC12NVFnEAE!2m1!1s0x0:0xdd3bfbf014474d5e!3m1!1s2@1:CIHM0ogKEICAgIDdp-v5Qg%7CCgwIs4H7rgYQ4IKsqgM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Thanks for the free omakase, it was tasty and the ingredient is fresh. The lunch set also tasty, well done. We will visit again for sure.",
+                "likes": 1,
+                "details": {
+                    "food": 5,
+                    "service": 5,
+                    "atmosphere": 5
+                },
+                "response_from_owner": "Thank you for your like and support ☺️🙏"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURkcDd1V2VREAE!2m1!1s0x0:0xdd3bfbf014474d5e!3m1!1s2@1:CIHM0ogKEICAgIDdp7uWeQ%7CCgsImYT7rgYQqKmeFQ%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Superb sashimi, melting in your mouth and can’t describe on the freshness. Premium quality with reasonable price. Worth every penny….",
+                "likes": 1,
+                "response_from_owner": "Thank you for your like and support ☺️🙏"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNOcjlQVF9BRRAB!2m1!1s0x0:0xdd3bfbf014474d5e!3m1!1s2@1:CIHM0ogKEICAgICNr9PT_AE%7CCgwIpaCorQYQ-PSuhgE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Thanks for the omakase experience, fish is very fresh and chef is very friendly. Environment is also very good. 😍 Definitely recommend",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 200+",
+                    "food": 5,
+                    "atmosphere": 5
+                },
+                "response_from_owner": "Thank you for your like and support ☺️🙏"
+            }
+        ],
+        "types": [
+            "Japanese restaurant"
+        ],
+        "address": "D - 06, 01, Jalan SS 7/13a, SS7, 47301 Petaling Jaya, Selangor, Malaysia"
+    },
+    {
+        "place_id": "ChIJr4P2FvVKzDERfwRgTGo7EXg",
+        "title": "Sushi Mentai @ Sri Petaling",
+        "gps_coordinates": {
+            "latitude": 3.0718807999999997,
+            "longitude": 101.68220509999999
+        },
+        "rating": 4.2,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUREOGIzTFFREAE!2m1!1s0x0:0x78113b6a4c60047f!3m1!1s2@1:CIHM0ogKEICAgIDD8b3LQQ%7CCgwI8N_dsAYQkJDpygM%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "One of the better Sushi Mentai for a casual and affordable sushi experience. Better than the one at Kuchai Lama. Service is fast. But try to time your meal time as it can be packed during peak hours. Parking is ample",
+                "likes": 0,
+                "details": {
+                    "food": 4,
+                    "service": 3,
+                    "atmosphere": 3
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNadmJXQ3pBRRAB!2m1!1s0x0:0x78113b6a4c60047f!3m1!1s2@1:CIHM0ogKEICAgICZvbWCzAE%7CCgwIoLiWqAYQ0PaQiAE%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "It's been a while since I dined in a Sushi Mentai but coming here again reminded me why there's always a beeline during meal time. Food is simple but good. Flavours are on point and prices really reasonable. The outlet here has great waitstaff a very spacious dining area compared to some others.  Recommended.",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Ramen, Cheap Sushi"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN1eWZIdzRBRRAB!2m1!1s0x0:0x78113b6a4c60047f!3m1!1s2@1:CIHM0ogKEICAgICuyfHw4AE%7CCgwI1tjtrQYQqKKLoQM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Nice environment. Sushi on conveyor belt. Quite a lot of variety. Very affordable price. Has sashimi, salmon teriyaki and salmon shio, some rice choices, noodles, California rolls, chawanmushi, miso soup, tempura. The prawn tempura is very nice. However, the service is not very good as under-staff. Forgot to take pictures. Take-away is well-packed and neatly arranged. Staff is ever friendly and helpful. Truly a place for any meal time 😉",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Edamame, Salmon Teriyaki Don, Salmon Sashimi, Salmon Sushi and Salmon Mentai Sushi",
+                    "parking_options": "Paid street parking",
+                    "parking": "Parking is a little hard during peak hours."
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR4NTZxS0FREAE!2m1!1s0x0:0x78113b6a4c60047f!3m1!1s2@1:CIHM0ogKEICAgIDx56qKAQ%7CCgwI-ZuxpAYQ0ILluwI%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Economic Japanese sushi and other menu. The seafood rice is is very yummy, 4.80 only.\nSushi with 2 prices, 1.80 and 2.80. Self take rolling sushi. The sushi is also fresh and tasty. Worth the price.\nThis area is not easy to get a parking, this restaurant always full and sometimes need to queue.\nGreen tea costing RM1 per pax only, unlimited refill.",
+                "likes": 1,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 1–20",
+                    "food": 5,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Cheap Sushi",
+                    "parking_space": "Somewhat difficult to find parking",
+                    "parking_options": "Free street parking"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURqcnR2QWdnRRAB!2m1!1s0x0:0x78113b6a4c60047f!3m1!1s2@1:CIHM0ogKEICAgIDjrtvAggE%7CCgwIwozTsQYQ0JObuQE%7C?hl=en-US",
+                "rating": 1,
+                "snippet": "Whatever you do, don't order the katsudon. Worst katsudon I ate in my life. Look and taste nothing like katsudon. I should have gotten my regular inari sushi instead DISAPPOINTED!",
+                "likes": 0,
+                "details": {
+                    "food": 1,
+                    "service": 3,
+                    "atmosphere": 3
+                },
+                "response_from_owner": "Dear Species 5618,\n\nThank you for your feedback. \nWe are looking into this matter and would like to understand the details from you personally. \nMay we have your contact number to assist us in investigating this matter? \nOur person in charge will follow up with you via phone contact directly. \nFeel free to contact us through Facebook or Instagram as well.\nThank you and so sorry for any inconveniences caused.  \n\nRegards, \nSushi Mentai"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURaN01mM1hBEAE!2m1!1s0x0:0x78113b6a4c60047f!3m1!1s2@1:CIHM0ogKEICAgIDZ7Mf3XA%7CCgsIqdbKqAYQgMKxEg%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "[holiao]\n1) Overall - Japanese restaurant selling fresh food, expect crowd and queue during peak hours, value for money, great place for dining, food and drinks selection are sushi, rice, soba noodle, salmon and many more from Sushi Mentai @ Sri Petaling\n2) soba noodle - tasted good both cooked in cold or hot, decent portion, value for money, loved the flavour too\n3) sushi selection - fresh sushi, make to order or deliver via sushi train, pick as you like based on price, decent portion\n4) tofu salad - fresh salad make to order, silky soft tofu, loved the sesame dressing\n5) grill salmon - big piece of salmon with the given price, fresh salmon, grill to perfection\n6) scallop with eggs on rice - tasted alright but definitely value for money for the ingredient they put",
+                "likes": 0,
+                "details": {
+                    "service": 3,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 40–60",
+                    "food": 4,
+                    "atmosphere": 3
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNUaFBQTHd3RRAB!2m1!1s0x0:0x78113b6a4c60047f!3m1!1s2@1:CIHM0ogKEICAgICThPPLwwE%7CCgwIj8f7sQYQ6MnQ2AE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Amazing and tasty as always, great affordability for high quality. Can have a full meal just by eating sushi off the conveyor belt (recommend to go lunchtime for full sushi experience). They will make more of your favourite sushi if you ask!\n\nBest sushi mentai I went to",
+                "likes": 0,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "parking_space": "Plenty of parking"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNsanR5SExBEAE!2m1!1s0x0:0x78113b6a4c60047f!3m1!1s2@1:CIHM0ogKEICAgICljtyHLA%7CCgwI_cniqgYQ6ML21AM%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "The food and service provided is quite good, the only thing is they always say not available every time when i order fried salmon😅",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 4,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Ebiko, Ramen, Sushi Mentai"
+                }
+            }
+        ],
+        "types": [
+            "Conveyor belt sushi restaurant"
+        ],
+        "address": "No. 7 & 9, Jalan 13/149l, Bandar Baru Sri Petaling, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia"
+    },
+    {
+        "place_id": "ChIJnZgL5xG1zTERoxcobMpta4s",
+        "title": "Sushi Mentai 寿司 @ Bandar Puteri Puchong",
+        "gps_coordinates": {
+            "latitude": 3.0217720999999997,
+            "longitude": 101.6160755
+        },
+        "rating": 4.1,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUROc3V1UmhBRRAB!2m1!1s0x0:0x8b6b6dca6c2817a3!3m1!1s2@1:CIHM0ogKEICAgIDNsuuRhAE%7CCgwIysuzrQYQuI2rywM%7C?hl=en-US",
+                "rating": 2,
+                "snippet": "First time visiting, it's definitely below the ampang branch in all fronts. Place is jammed packed after 5.30pm. However if you come at 5pm you still have some tables to choose from.\n\nFood is about what you expect , mediocre sushi but for a good price. I will however recommend some of the salmon, like salmon wrapped ebiko sushi or fried salted salmon, pretty good. Other than that everything is pretty much meh.",
+                "likes": 0,
+                "details": {
+                    "service": 1,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 2,
+                    "atmosphere": 1,
+                    "recommended_dishes": "Salmon Belly"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6N3MyalJnEAE!2m1!1s0x0:0x8b6b6dca6c2817a3!3m1!1s2@1:CIHM0ogKEICAgICz7s2jRg%7CCgwIqKnwsgYQqKr-3gI%7C?hl=en-US",
+                "rating": 1,
+                "snippet": "Service is up to standard but the food is disappointing.\nOrdered teriyaki chicken, but the chicken is not fresh/well marinated, cant really taste the teriyaki sauce, only normal sweet sauce on the rice, dried chicken as  seen in picture.\nthose food on the conveyer belt are cold when i walk in restaurant on sunday 12.30pm that is the peak hour. the food of those in red color plate such as fried shrimp sushi are totally cold.",
+                "likes": 0,
+                "details": {
+                    "food": 1,
+                    "service": 5,
+                    "atmosphere": 3
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURWNGNQWVhBEAE!2m1!1s0x0:0x8b6b6dca6c2817a3!3m1!1s2@1:CIHM0ogKEICAgIDV4cPYXA%7CCgsI0OrmqwYQiPmrLg%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Been here a few times when staying in the nearby hotel. Just another Sushi Mentai, with reasonable options, quality and price. As usual, hygiene is the most critical thing. Hope they continue to maintain and improve the place.",
+                "likes": 1,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 1–20",
+                    "food": 4,
+                    "atmosphere": 4,
+                    "parking": "Plenty of parking but still not too easy to find one., better at night."
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNaOUxMdmJnEAE!2m1!1s0x0:0x8b6b6dca6c2817a3!3m1!1s2@1:CIHM0ogKEICAgICZ9LLvbg%7CCgwIsIfcpwYQ8MqrrgI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Prefer to go in the afternoon coz personally feel the food is more fresh and better in terms of the food presentation. My fav dish here is their Sashimi Salad but oddly enough, I felt the food looks and taste better in the afternoon. Maybe bcoz they just start operating during this hour 😅 Just a feeling. Nonetheless, food is good here. One of my fav go to spot for sushi in Puchong.",
+                "likes": 0,
+                "details": {
+                    "food": 5,
+                    "service": 5,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMxdVBueER3EAE!2m1!1s0x0:0x8b6b6dca6c2817a3!3m1!1s2@1:CIHM0ogKEICAgIC1uPnxDw%7CCgsIqvOVrAYQgI7haQ%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "I just cant believe how reasonably cheap the prices here at Sushi Mentai. I must say I cant wait for my next visit! Kudos 👍",
+                "likes": 0,
+                "details": {
+                    "food": 5,
+                    "service": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN1MHBub3BnRRAB!2m1!1s0x0:0x8b6b6dca6c2817a3!3m1!1s2@1:CIHM0ogKEICAgICu0pnopgE%7CCgwIstf3lgYQ4JuI0gI%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Worth every penny for the food we had here. Attentive staff, clean outlet and it’s difficult not to like the restaurant - definitely will be back soon.\n\nMust have item from their menu including:\n- Sashimi salad\n- Shiro maguro\n- Salmon toro\n- Miso soup with clam\n- Yasai tempura\n- Spicy ramen\n- Saba shioyaki\n- Chicken kaarage\n- Kaki fried",
+                "likes": 1,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 1–20"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNobG9lWHBRRRAB!2m1!1s0x0:0x8b6b6dca6c2817a3!3m1!1s2@1:CIHM0ogKEICAgIChloeXpQE%7CCgwIo8SinwYQ6LjY8AI%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Sushi Mentai offers a good range of Japanese sushi and food at affordable price. This particular outlet in Bdr Puteri Puchong is newer and more spacious than IOI Boulevard outlet. SM is also kids friendly place. My kids love the varieties and the sushi belt is always available...",
+                "likes": 1,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Lunch",
+                    "food": 4,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNkOWJpMHlnRRAB!2m1!1s0x0:0x8b6b6dca6c2817a3!3m1!1s2@1:CIHM0ogKEICAgICd9bi0ygE%7CCgwIicnArgYQ-J2ytQI%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "we ordered miso soup, it comes in huuuuuuuge bowl. overall the service and food was okay.",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 4,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Miso Soup, Ebiko Salad",
+                    "parking_space": "Plenty of parking",
+                    "parking_options": "Free parking lot"
+                }
+            }
+        ],
+        "types": [
+            "Sushi restaurant",
+            "Fast food restaurant"
+        ],
+        "address": "22, Jalan Puteri 2/4, Bandar Puteri Puchong, 47100 Puchong, Selangor, Malaysia"
+    },
+    {
+        "place_id": "ChIJa_mPYGSzzTERjMSIErjojJ0",
+        "title": "Shin Zushi Puchong",
+        "gps_coordinates": {
+            "latitude": 3.0235795,
+            "longitude": 101.6155582
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6eFBHQ2tRRRAB!2m1!1s0x0:0x9d8ce8b81288c48c!3m1!1s2@1:CIHM0ogKEICAgIDzxPGCkQE%7CCgwIrtSMswYQgOrztAM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Had to queue for a while for our turn but their service was quite fast. Staff are efficient and most importantly good food (their sashimi is fresh), clean environment and affordable price.\n\nWe went on the weekend so there is plenty of parking.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 40–60",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Sashimi"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNEeGVLY3B3RRAB!2m1!1s0x0:0x9d8ce8b81288c48c!3m1!1s2@1:CIHM0ogKEICAgICDxeKcpwE%7CCgwIpZD7sgYQoIHIkgE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "TL;DR: Amazing salmon and sashimi. Long queues but totally worth it for the quality, reasonable prices, and great service. A must visit for sushi lovers! 🙌\n-\n9.5/10, minus 0.5 ⭐ because queuing is a pain 🫣🤣\n\nShin Zushi is one of my favorite sushi spots that's worth the wait! The food is EXCELLENT - with thick, juicy salmon & beautifully cut sashimi! 🍣🍣\n\nThe queue can be long especially during rush hours, but that just shows how good this place is. Trust me, you won't regret it\n\nThe salmon here is ✨heavenly✨; with generous cuts, juicy, and full of flavor! The nigiri and sushi are also delicious, with plenty of options to choose from 🤤\n\nThe prices are REASONABLE, and the portions and quality make it great value for money. The menu is extensive, so there's always something for everyone.\n\nService is quick and efficient, even when it's busy. The staff is attentive, making dining here enjoyable.\n\nOverall, an exceptional place for fresh seafood and top quality sushi. Sushi and sashimi lovers, this spot is a MUST visit! Highly highly recommend it! 🙌",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "parking_space": "Somewhat difficult to find parking",
+                    "parking_options": "Free street parking, Paid street parking"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNqdHR5UlpnEAE!2m1!1s0x0:0x9d8ce8b81288c48c!3m1!1s2@1:CIHM0ogKEICAgICjttyRZg%7CCgwIo8OTsQYQ0OjTjAI%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Sashimi very big portion and fresh. Sushi and handroll are delicious l. Just we are not really like the soup. The salmon meat over fried even burt, the taste of flour too strong. Overall the foods are good, just not suit for gathering place because they are too busy and long queue. Bit stress having meal here. 😅",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 40–60",
+                    "food": 4,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNEdUxlWG1nRRAB!2m1!1s0x0:0x9d8ce8b81288c48c!3m1!1s2@1:CIHM0ogKEICAgICDuLeXmgE%7CCgsI7dP_rwYQ0PbIIg%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Great food worth the price you pay. The salmon is thickly cut, juicy, yummy and chewy. They are generous with the salmon sashimi cuts which is big and chunky, something i haven’t seen for some time in many sushi restaurants nowadays. All the 🍣 are yummy and delicious. We also ordered the bento sets, one is pork and another is teppanyaki grilled salmon. There are so many choices, and it can tempt you to visit again and again. Price wise it isn’t cheap nor expensive but the quality and size makes up for it. We are so full from the food and it comes up to ard 150 bucks. Thats why there is normally a queue going in. Mind you, the table is a bit small and fits only the sets, and if you order some ala carte dishes its best to take all the food off the tray to make space. Service is fast despite the crowd. A 🍣 restaurant that i will definitely come back again.",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 60–80",
+                    "food": 5,
+                    "atmosphere": 3,
+                    "recommended_dishes": "Sashimi"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUREN0pEQk5nEAE!2m1!1s0x0:0x9d8ce8b81288c48c!3m1!1s2@1:CIHM0ogKEICAgIDD7JDBNg%7CCgsIld3FsAYQqKrWHg%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "The place was packed.  Must go early if not you have to wait quite awhile to get a table. Food was very good and quite a big portion.  Highly recommended.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Sashimi"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNENE9QZE93EAE!2m1!1s0x0:0x9d8ce8b81288c48c!3m1!1s2@1:CIHM0ogKEICAgICD4OPdOw%7CCgwI_NX6rwYQyMbOmAM%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Need some queue….but worth the wait. The food quality is great, love the teppanyaki salmon with mixed vegetable. The sweetness and the flavour of the vegetable is just nice.",
+                "likes": 0,
+                "details": {
+                    "service": 3,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 40–60",
+                    "food": 4,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Torched Eel W"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUREMThYU2h3RRAB!2m1!1s0x0:0x9d8ce8b81288c48c!3m1!1s2@1:CIHM0ogKEICAgIDD18XShwE%7CCgsIr7f0sAYQ0N6nBg%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "This is one of the best sushi restaurant The portions are generous and service is fast However most of the time the queue is pretty long The price is reasonable Was glad that we didn’t need to wait as we were there before the lunch crowd",
+                "likes": 1,
+                "details": {
+                    "food": 5,
+                    "service": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNUeGNXUjBBRRAB!2m1!1s0x0:0x9d8ce8b81288c48c!3m1!1s2@1:CIHM0ogKEICAgICTxcWR0AE%7CCgwI-aWbsgYQ2K-A3AI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Impressive welcome, food is delicious and not expensive. Their susi taste good as aspect. Waiters and waitresses are cute and polite. They also have free wifi.",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            }
+        ],
+        "types": [
+            "Japanese restaurant"
+        ],
+        "address": "No .12G , Jalan, Persiaran Puteri 1, Bandar Puteri, 47100 Puchong, Selangor, Malaysia"
+    },
+    {
+        "place_id": "ChIJg5PiKYnLzTER6f286puGsiY",
+        "title": "Sushi Jiro IOI City Mall 2",
+        "gps_coordinates": {
+            "latitude": 2.9698412,
+            "longitude": 101.7149488
+        },
+        "rating": 4,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM5aDQyV09REAE!2m1!1s0x0:0x26b2869beabcfde9!3m1!1s2@1:CIHM0ogKEICAgIC9h42WOQ%7CCgwIvfC2rwYQiKOi_QE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Here comes my sushi restaurant review at IOI City Mall! Sushi Jiro always my no.1 choice when I don’t know what to eat or have small appetite!\n\nBranch here really swift, started from entering the restaurant, food ordering to the food quality, it’s all very good!\n\nDespite I came around quite an odd and late hour, but the service and food options still varied!",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN6NkpiejdnRRAB!2m1!1s0x0:0x26b2869beabcfde9!3m1!1s2@1:CIHM0ogKEICAgICz6Jbz7gE%7CCgwIo9bhsgYQyP7_uQM%7C?hl=en-US",
+                "rating": 1,
+                "snippet": "They took a very long time to serve the food even the restaurant is not full house. Waited 50min to serve a fried rice. The waiter was not attentive, my table had no dipping sauce and they did not notice. Not even come and order the drinks for us. Treat customer like transparent. The food taste normal. There are many restaurants in this mall. Definitely will not visit again.",
+                "likes": 0,
+                "details": {
+                    "service": 1,
+                    "meal_type": "Dinner",
+                    "food": 3,
+                    "atmosphere": 3
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUREeklxbWdnRRAB!2m1!1s0x0:0x26b2869beabcfde9!3m1!1s2@1:CIHM0ogKEICAgIDDzIqmggE%7CCgwIqvzEsAYQsOzrjgI%7C?hl=en-US",
+                "rating": 3,
+                "snippet": "Wait for hell long time just to queue, nevermind , got empty space but told us already have customer booked well it's okay takpe but where is my soyu ????",
+                "likes": 0,
+                "details": {
+                    "food": 3,
+                    "service": 3,
+                    "atmosphere": 3
+                },
+                "response_from_owner": "Hi Winson, Thank you for the feedback. We sincerely apologise for the unpleasant experience. Would it be convenient if you could provide your mobile number to us at feedback@sushijiro.com.my\nWe hope you could grant us a chance to personally apologize to you. \n\nThank you very much! "
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNObHB5Ym1BRRAB!2m1!1s0x0:0x26b2869beabcfde9!3m1!1s2@1:CIHM0ogKEICAgICNlpybmAE%7CCgwI5ZOOrQYQyLKMzwI%7C?hl=en-US",
+                "rating": 3,
+                "snippet": "I had been to many outlets of sushi jiro, unfortunately this is the most unhygienic one. As you could see from the photo, raw beef on my table with my cooked beef. It could be the server problem. I was quite certain he saw the raw beef dangling from the bottom of the plate while serving to me. Anyway the sushi rice was quite hard (overcooked). Yakiniku beef was delicious. The cup containing my hot green tea smelled soap 🤣 I went to dine in at 240pm. Sushi jiro management, pls train your staff esp the foreign staff (no offense, he  may hv diff level of hygiene) 😆",
+                "likes": 0,
+                "details": {
+                    "service": 1,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 4,
+                    "atmosphere": 3
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNsd2NYVWNREAE!2m1!1s0x0:0x26b2869beabcfde9!3m1!1s2@1:CIHM0ogKEICAgIClwcXUcQ%7CCgwIo8XrqgYQ8PLG5gI%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Good food fresh clean and comfortable . Very good worth value for money. Love the desserts and ice cream too . Will come back",
+                "likes": 0,
+                "details": {
+                    "food": 4,
+                    "service": 4,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNCOTgzaXlnRRAB!2m1!1s0x0:0x26b2869beabcfde9!3m1!1s2@1:CIHM0ogKEICAgICB983iygE%7CCgsIqdqEngYQyNicBg%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "It's my first time trying Sushi Jiro. I am thoroughly surprised that for just RM3.68 per plate (as of Jan 2022), you are served good quality sushi.\n\nAll the ingredients tasted fresh especially the salmon, no rancid smell whatsoever. The set yakiniku also tasted good for the price. I do feel that the service was somewhat rushed but I do take note that I am already dining in slightly more than 1 hour before they close.\n\nAll in all, Sushi Jiro offers cheap, affordable, good quality, and somewhat authentic sushi that is unbeatable by its competitors.",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNlejhXVzBRRRAB!2m1!1s0x0:0x26b2869beabcfde9!3m1!1s2@1:CIHM0ogKEICAgICez8WW0QE%7CCgwIhN7KmQYQ0O_I_gI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Great sushi place👍🏻has always favoured sushi jiro than SK. The best way to test out a sushi place is by trying their tamago first,then you'll get the idea of how good their dishes are. Love their mentai sauce!🤍",
+                "likes": 0,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 40–60"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNSaHNhV2J3EAE!2m1!1s0x0:0x26b2869beabcfde9!3m1!1s2@1:CIHM0ogKEICAgICRhsaWbw%7CCgwItuKaoQYQoN6-hQM%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "First visit here. Ample selection in set menu that include  chicken, prawn, salmon and saba. Tried the grilled saba teriyaki  and eby fry sets. All- in price is reasonable, fair and competitive. Taste, texture and freshness of the eby tempura and grilled saba fish are good. The sushi menu listed a wide array of items for diners to choose from. Overall, a satisfying and fulfilling lunch.",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 40–60",
+                    "food": 4,
+                    "atmosphere": 5,
+                    "parking_space": "Plenty of parking",
+                    "parking_options": "Paid parking lot",
+                    "parking": "Hugh number of parking lots. Touch TnG card only at exit, and no need at entry into the car park."
+                }
+            }
+        ],
+        "types": [
+            "Conveyor belt sushi restaurant"
+        ],
+        "address": "LG251, IOI City Mall 2, Lebuh IRC, IOI Resort City Putrajaya, 62502 Sepang, Putrajaya, Malaysia"
+    },
+    {
+        "place_id": "ChIJh6YQH3G5zTERxwcWS-G92-A",
+        "title": "Sushi Saga",
+        "gps_coordinates": {
+            "latitude": 2.8226575,
+            "longitude": 101.695887
+        },
+        "rating": 4.6,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6bW9Mbl9RRRAB!2m1!1s0x0:0xe0dbbde14b1607c7!3m1!1s2@1:CIHM0ogKEICAgIDzmoLn_QE%7CCgsI7-mVswYQ4Nu1NA%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "I came up late so we had a takeway set, I forgot what I have for that evening but all that I can say..the food is great.\n\nEspecially their Nasi Lemak sushi, the taste of Japan and Malaysia is wild. I had to share with my kids though I wanted it all for myself, haha.\n\nMy wife said everything that we got is packed with deliciousness, our kids love it too. Every dish we got are all clean shaved to the last bite with no mark, they even asking for more. Surely we'll be back.\n\nPersonally as a big eater, the portion is superb, it's balanced and tasted great! Quality wise, I just gonna say they are doing a good job.\n\nService is top notch, big thanks for the hospitality.\n\nThis is the type of business that we need to support, quality, service, atmosphere all sitting at the comfortable position. Sushi Saga will go big someday, may they will be a household name very soon.\n\nYou're the best!",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Sushi"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURUcGJydDhRRRAB!2m1!1s0x0:0xe0dbbde14b1607c7!3m1!1s2@1:CIHM0ogKEICAgIDTpbrt8QE%7CCgsI-MjLsgYQ4LiONw%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "One of the most underrated sushi place ever! Nestled in a \"modest\" Kipmall, but don't be fooled by the location, service was amazing, staff is very friendly and fast.\n\nSushi was super good, comparable to the likes of Sushi Zanmai, Mentai Sushi and definitely better than Sushi King!\n\nPortion is very big as well and the price might be considered high as compared to the other restaurants nearby, but it's still affordable.\n\nTotally recommended, and please try the Salmon Mentai, it's to die for! Unfortunately no pics cause didn't expect it to be so good!!",
+                "likes": 0
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR6amJxTldBEAE!2m1!1s0x0:0xe0dbbde14b1607c7!3m1!1s2@1:CIHM0ogKEICAgIDzjbqNWA%7CCgwIofegswYQ0JHFxwE%7C?hl=en-US",
+                "rating": 3,
+                "snippet": "I was a bit disappointed with the food as it didn't meet my expectations. However, the service staff was friendly.",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 60–80",
+                    "food": 2,
+                    "atmosphere": 3
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNkNThMVmVBEAE!2m1!1s0x0:0xe0dbbde14b1607c7!3m1!1s2@1:CIHM0ogKEICAgICd58LVeA%7CCgwIi-DKrgYQ0PKG7QE%7C?hl=en-US",
+                "rating": 3,
+                "snippet": "We came for the conveyor sushi experience. The sushi was somewhat underwhelming, but the service was good and it was interesting. I had the Oran drink which was very tasty.",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "food": 3,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURCcTRtd29BRRAB!2m1!1s0x0:0xe0dbbde14b1607c7!3m1!1s2@1:CIHM0ogKEICAgIDBq4mwoAE%7CCgwIyIHYngYQ-OaspAE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Nicely tucked in a corner of Kipmall Kota Warisan, Sepang.\nClean, peaceful ambience.\nA wide variety of sushis available...even more than a few well known brands in Malaysia.\nDo try out their\" Malaysianised \" Nasi Lemak Sushi....a cute mini version of nasi lemak.\nSettings are the same as other Japanese Restaurant such as conveyor belt for sushi, open kitchen and typical Japanese ID.\nFood taste superb, generous portion and have a variety of choice.\nHighly recommended.\nTables are almost full during lunch hour on the weekends and PH.",
+                "likes": 3,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 40–60",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "parking_space": "Plenty of parking",
+                    "parking_options": "Free parking lot",
+                    "wheelchair_accessibility": "Very disabled friendly"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR1OGZYaEt3EAE!2m1!1s0x0:0xe0dbbde14b1607c7!3m1!1s2@1:CIHM0ogKEICAgIDu8fXhKw%7CCgwIvKKTmAYQuJPuugE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "This restaurant is so clean, and the staff are quite friendly too. The sushi price are affordable. Really like them! Definitely will go again.",
+                "likes": 3,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Other",
+                    "price_per_person": "RM 1–20"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQydGNxb3hRRRAB!2m1!1s0x0:0xe0dbbde14b1607c7!3m1!1s2@1:CIHM0ogKEICAgID2tcqoxQE%7CCgsItKehlAYQ2OmEdg%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Reasonable price. Even got free sushi for the forth plate nyumss & happy! Nasi lemak sushi surprisingly good, haha. Love your shishamo!!! Any chance adding the menu, sashimi moriawase mayb? Change your hot drink glass please. Staff response to customer can be improve. But since this is newly open sushi restaurant, I'll let it go. This is kipmall, u need to pay extra attention to pest. Mayb report to kipmall management if u have done your part to your best (hope u know what I mean).",
+                "likes": 2,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40"
+                },
+                "response_from_owner": "Thank you very much for your kind advice. We will try improve on the staff response. We have pest control covering our outlet, we will also pay extra attention to pest in the shop. Thank you for coming and we are having bento and many new sushi in the shop soon! Hope you can come again and try them out 😄"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNEanRuWGh3RRAB!2m1!1s0x0:0xe0dbbde14b1607c7!3m1!1s2@1:CIHM0ogKEICAgICDjtnXhwE%7CCgwItseUsAYQ8Oe6jQE%7C?hl=en-US",
+                "rating": 2,
+                "snippet": "I go to sushi saga cause had some ifluencer review the sushi saga were really nice , but once I come the staff just stare from beginning until end and make me feel uncomfortable. The taste of the food 4/10 still can eat but not really nice maybe cause just from start i feel uncomfortable ? Need to improve from staff being friendly atleast smile when customer come , I dont feel want to repeat until the staff improve . Compare to sushi king their food same like sushi saga but make me repeatly come cause the staff friendly .",
+                "likes": 1,
+                "details": {
+                    "service": 1,
+                    "food": 2,
+                    "atmosphere": 3
+                }
+            }
+        ],
+        "types": [
+            "Japanese restaurant",
+            "Halal restaurant"
+        ],
+        "address": "G-33A, Jalan Warisan Sentral 3, Kip Sentral, Kota Warisan, 43900 Sepang, Selangor, Malaysia"
+    },
+    {
+        "place_id": "ChIJzzwGhsxNzDER1td3FGkgjpM",
+        "title": "Shin Zushi USJ",
+        "gps_coordinates": {
+            "latitude": 3.0477431999999998,
+            "longitude": 101.5854243
+        },
+        "rating": 4.4,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqM2NpZFBREAE!2m1!1s0x0:0x938e20691477d7d6!3m1!1s2@1:CIHM0ogKEICAgIDj3cidPQ%7CCgwI58HjsQYQoMf4kwI%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Actually the food is tasty but they can't score 5/5 because the restaurant is too cramps, the air conditioning is the worse (feel like eating in traditional without aircond coffee shop), the floor is sticky, table is sticky and you can virtually touch the person on next table, basically your hand can easily reach the food on next table. Their business is good, you need to queue at least 45 mins.\nAnyway, be prepare to sweat a lot if you want to dine here. All the best.",
+                "likes": 0
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR6dFBxNUd3EAE!2m1!1s0x0:0x938e20691477d7d6!3m1!1s2@1:CIHM0ogKEICAgIDztPq5Gw%7CCgwIpL2OswYQyMzN7gI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Sushi is decent👍🏻. Price is affordable compared to the other options. Service crew are nice. Need to queue up for seats but worth the wait..",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 40–60",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM5Mk51NHV3RRAB!2m1!1s0x0:0x938e20691477d7d6!3m1!1s2@1:CIHM0ogKEICAgIC92Nu4uwE%7CCgsInMSHrwYQuLjGYg%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Love the portion and freshness of the sashimi! The price is so worth it.\nEvery other food we ordered was so good! So on point.\nEven though it is crowded,for this branch u can write ur name and contact number there,and they will call you when is ur turn,so efficient,for a weekday,we waited for only 30mins,and we got the call.\nService was good, fast and helpful.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Mixed Salmon Sushi"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNqcXZ2ZHN3RRAB!2m1!1s0x0:0x938e20691477d7d6!3m1!1s2@1:CIHM0ogKEICAgICjqvvdswE%7CCgwIgKyNsQYQuOGnxgI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "There almost always a long que and after trying it today I know why. Exceptional quality, competitive prices and speedy service.\n\nCan taste the freshness of the unagi and the grilled tuna almost had a beefy texture and taste. The squid was both springy and soft while the Salmon sashimi was fresh satisfyingly fatty.\n\nThe tempura was served hot with a thin layer of batter and the tempura sauce was light with a sufficient amount of saltiness and fragrance of ginger.\n\nI've found my new go to sushi place!",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 40–60",
+                    "food": 5,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Tuna Sashimi",
+                    "parking_space": "Somewhat difficult to find parking",
+                    "parking_options": "Free street parking, Paid street parking",
+                    "parking": "USJ taipan has always been difficult to find parking."
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ5NWFURVp3EAE!2m1!1s0x0:0x938e20691477d7d6!3m1!1s2@1:CIHM0ogKEICAgID95aTEZw%7CCgwIoOjkrwYQkM-t3QE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "We have been here a lot of times to eat fresh sashimi. All sashimi very fresh and thick. Worth the money! The staff there is friendly. However, the sea urchin has slight fishy smell. Other that that everything is very good!",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 80–100",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNOOUl5NWpRRRAB!2m1!1s0x0:0x938e20691477d7d6!3m1!1s2@1:CIHM0ogKEICAgICN9Iy5jQE%7CCgsIocORrQYQ2InHFw%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "This restaurant is all time at queue. However, their table turnover very fast. Always come 20mins earlier for the queue.\n\nFoods are value for price. Portion is good. Sashimi is fresh and nice thick cut. I like their grill saba fish, crispy skin, and juicy inside. Tempura a must order item.\n\nTheir service is super fast and attentive. Air ventilation is good. Environment is always crowded but is a comfortable space to enjoy a meal.",
+                "likes": 2,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNqcm9MTFNBEAE!2m1!1s0x0:0x938e20691477d7d6!3m1!1s2@1:CIHM0ogKEICAgICjroLLSA%7CCgwInMKVsQYQ0JbMzAM%7C?hl=en-US",
+                "rating": 3,
+                "snippet": "First time visiting, this Shin Zushi is pretty spacious with clean facilities but long queues, highly advise you to come earlier(4-5pm). The sashimi is famous and great especially with it's freshness and portions, well done!\nIt's unfortunate that I could not try their salmon belly as it was already sold out when I arrived but I heard it's even better than the normal salmon sashimi!\nThe sets are quite worth it with portions that are large and it can be hard to finish so be prepared. Dishes are presented well but the green tea is pretty underwhelming.\nA good experience overall, just make sure to come earlier.",
+                "likes": 0,
+                "details": {
+                    "service": 2,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 4,
+                    "atmosphere": 2,
+                    "recommended_dishes": "Salmon Sashimi Salad, Shin Salmon Teishoku"
+                },
+                "response_from_owner": "SaltedBread (Howard)\n\nThank you for sharing your experience at Shin Zushi! We appreciate your feedback and are glad you enjoyed the spacious and clean environment. \n\nWe apologize for the long queues but appreciate your advice to come earlier. It's great to hear that you enjoyed the sashimi for its freshness and generous portions. \nWe apologize for the inconvenience of the sold-out salmon belly but hope you'll have the opportunity to try it next time. \n\nOur sets are designed to offer value and generous portions, although we apologize if it was too much to finish. \n\nWe'll take note of your feedback regarding the green tea. Overall, we're pleased you had a good experience, and we look forward to serving you again soon!\n\nBest regard\nShin Zushi management team"
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNqc2QzMHZRRRAB!2m1!1s0x0:0x938e20691477d7d6!3m1!1s2@1:CIHM0ogKEICAgICjsd30vQE%7CCgsI_IicsQYQqL6bZw%7C?hl=en-US",
+                "rating": 3,
+                "snippet": "Price is always reasonable. Hence forever long queue and the teenagers love this place as well as the family and the seniors. Nonetheless the service staff are mainly Myanmese who couldn’t communicate much. Thankfully there are some local staff and one or 2 Myanmese who could speak a little English or Malay. Too efficient until they kept coming to you to clear plates. Food wise, some are good some are so so. Salmon head shio is so so. Uni sushi is so so. Okay are the Ikura sushi, eel sushi mentaiko, salmon sushi mentaiko, ebi sushi mentaiko, ebi sushi spicy sauce, salmon sashimi, California hand roll. Value for money is the catch. Noisy place added with a young man talking so loud to his girlfriend at the sushi counter the whole night even though he sat 5 chairs away.",
+                "likes": 0,
+                "details": {
+                    "food": 3,
+                    "service": 3,
+                    "atmosphere": 3
+                },
+                "response_from_owner": "Thanks for your review, TMB Oo. \n\nWe appreciate your feedback regarding the queue, service, and food quality. We'll work on improving our communication with staff and addressing any issues with efficiency and noise levels. Your insights help us enhance the dining experience for all our customers.\n\nYour satisfaction is our priority, and we appreciate your feedback to help us continually improve. For any further assistance or feedback, please feel free to reach out via WhatsApp at 014-6482488\n\nBest Regard\nShin Zushi Management Team"
+            }
+        ],
+        "types": [
+            "Sushi restaurant",
+            "Japanese restaurant"
+        ],
+        "address": "19-G, 19-G, Jalan USJ 10/1, Taipan USJ, 47620 Subang Jaya, Selangor, Malaysia"
+    },
+    {
+        "place_id": "ChIJQS5R0VI1zDERKdUFXGCk5jk",
+        "title": "Sushi Zaku",
+        "gps_coordinates": {
+            "latitude": 3.0999504,
+            "longitude": 101.73965779999999
+        },
+        "rating": 4.7,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNkcU4yaGpBRRAB!2m1!1s0x0:0x39e6a4605c05d529!3m1!1s2@1:CIHM0ogKEICAgICdqN2hjAE%7CCgwItJqgrgYQwM-S_QI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "We discovered Sushi Zaku when goggling for nearby Japanese restaurants. Turned out to be an excellent experience. Food is delicious and value for money. Owner is friendly and service is quick. We also like the environment which is simple but cosy. We can see ourselves returning to try other dishes.",
+                "likes": 3,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUREaFBtZnNRRRAB!2m1!1s0x0:0x39e6a4605c05d529!3m1!1s2@1:CIHM0ogKEICAgIDDhPmfsQE%7CCgwIoMLAsAYQ4Mea0gM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Indeed a hidden gem! Found this place randomly bcs im craving for sushi. The food is great and fresh, very nice staff and very calming atmosphere. Had a really pleasant experience in this restaurant.",
+                "likes": 2,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR0X0lpZ2FREAE!2m1!1s0x0:0x39e6a4605c05d529!3m1!1s2@1:CIHM0ogKEICAgIDt_IigaQ%7CCgsIsML3rQYQqI_UdQ%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "The owner is really friendly and you can mix and match the sushi combination. (I.e spicy salmon, teriyaki beef). Can get recommendation from the shop owner as well. Reasonable price for the quality",
+                "likes": 1,
+                "details": {
+                    "food": 5,
+                    "service": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR0X0xDSFdnEAE!2m1!1s0x0:0x39e6a4605c05d529!3m1!1s2@1:CIHM0ogKEICAgIDt_LCHWg%7CCgsIssL3rQYQ0NCSVA%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Come on Saturday afternoon. Boss is super friendly and introduce us different sushi. The best is the spicy salmon. The scallop is thick",
+                "likes": 1,
+                "details": {
+                    "food": 5,
+                    "service": 5,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN4aUlPOVVREAE!2m1!1s0x0:0x39e6a4605c05d529!3m1!1s2@1:CIHM0ogKEICAgICxiIO9UQ%7CCgwIrbjoogYQ-LnckwM%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Was around this area and a random search that lead me n my friend here. Surprisingly, this sushi restaurant is really good. Friday evening with not too crowded. Price at reasonable with a pleasing portion of sushi. I believe their chef does put effort into the food as the preparation took some time but not a long wait, and the food quality is fresh and yummy. Definitely will come again.",
+                "likes": 2,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 40–60",
+                    "food": 5,
+                    "atmosphere": 4,
+                    "recommended_dishes": "Tempura, Soft Shell Crab Tempura"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNWMmJPZElREAE!2m1!1s0x0:0x39e6a4605c05d529!3m1!1s2@1:CIHM0ogKEICAgICV2bOdIQ%7CCgwI19jKqwYQoNaaigE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "With this price range, this is one of the best sushi I have had in a long time. Everything is fresh and delicious, kudos to the pickled ginger, it’s refreshing and crunchy, make you to eat more sushi haha.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChRDSUhNMG9nS0VJQ0FnSURKOS13axAB!2m1!1s0x0:0x39e6a4605c05d529!3m1!1s2@1:CIHM0ogKEICAgIDJ9-wk%7CCgwI2pL8pQYQsKms5QE%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Very recommend.\nThe boss and staff are very friendly.\nThe boss will introduce and recommend the food for customers.\nThe most I like is the chicken ton, chicken very crispy and sauce is very unique.\nConsider as cheaper price for.",
+                "likes": 1,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 1–20",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURScVlTeVFREAE!2m1!1s0x0:0x39e6a4605c05d529!3m1!1s2@1:CIHM0ogKEICAgIDRqYSyQQ%7CCgwI4tCuogYQgPzAwwM%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "This place is such a hidden gem! A really comfortable dining experience with clean and yummy good! Attentive and friendly staffs, quick serving. Price is affordable…would definitely come again\n\nP.S Suggest to come up with set meals menu next",
+                "likes": 0,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 40–60"
+                }
+            }
+        ],
+        "types": [
+            "Authentic Japanese restaurant"
+        ],
+        "address": "11G, Jalan 3/101c, Cheras Business Centre, 56100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia"
+    },
+    {
+        "place_id": "ChIJVQO53TRNzDERjquHOWDh7vs",
+        "title": "Nippon Sushi (Kelana Jaya)",
+        "gps_coordinates": {
+            "latitude": 3.1018063,
+            "longitude": 101.59889439999999
+        },
+        "rating": 4.3,
+        "reviews": [
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6d19xdklREAE!2m1!1s0x0:0xfbeee1603987ab8e!3m1!1s2@1:CIHM0ogKEICAgICzw_qvIQ%7CCgsIiq78sgYQuLSZLA%7C?hl=en-US",
+                "rating": 1,
+                "snippet": "Arrived around 7.40pm, just about dinner time. Initially just ordered the Spicy Mala Ramen. But upon seeing how 'dirty' the soup of the Mala Ramen, we went ahead and ordered the beef curry Don.\n\nHere's why we gave a horrendous rating.\n1) ramen by nature should've a clear broth. But your Mala Ramen is dirty AF. A lot of sediments. At best, it was a soup, not ramen. Just because u added some noodles and egg into the bowl, doesn't make it ramen.\n2) Your 'Don' was served on a plate. A simple Google would shows that Don is actually a bowl. On top of that, the curry itself doesn't have the Japanese curry taste, nor consistentcy. At that point, it was just a beef stew, not even curry.\n3) as stated, arrival time was around 7.40pm, ie just going into the dinner time. However, the sushi train was empty, with only a handful of sushi on it. A freaking disgrace.\n\nI am very critical about food. If you don't want people to F up nasi lemak or rendang, then Don't f up other people's cuisine too.",
+                "likes": 1,
+                "details": {
+                    "service": "Dine in",
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 1
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNOdjdDUlFBEAE!2m1!1s0x0:0xfbeee1603987ab8e!3m1!1s2@1:CIHM0ogKEICAgICNv7CRQA%7CCgwI_7yprQYQwObanQI%7C?hl=en-US",
+                "rating": 3,
+                "snippet": "Compare to others sushi restaurant，for me their food is not that wow... miso soup too salty, the ebi got the rancid odour and for me the portion is abit smaller compared to others.\n\nBut thier interior is nice la...service also quite fast",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 20–40",
+                    "food": 3,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURqc2ZPNHpRRRAB!2m1!1s0x0:0xfbeee1603987ab8e!3m1!1s2@1:CIHM0ogKEICAgIDjsfO4zQE%7CCgwIyurYsQYQ0IfXygM%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "Overall food is good..some innovative item like Mentai Cawanmushi and cappacio salmon. Okonomiyaki is lack of cabbage",
+                "likes": 0,
+                "details": {
+                    "service": 4,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 4,
+                    "atmosphere": 4
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM1a2FDMTVnRRAB!2m1!1s0x0:0xfbeee1603987ab8e!3m1!1s2@1:CIHM0ogKEICAgIC5kaC15gE%7CCgwIt-_4sAYQwOuamQE%7C?hl=en-US",
+                "rating": 3,
+                "snippet": "The food was awesome.. anything u pick is quite nice and will not dissapoint you.. the problem was the service.. i came here twice for dinner around 8pm and they normally started to close around 9.30pm.. the thing is, if you close early then get the food ready faster la.. twice, we got our final receipt because they were \"closing soon\" but, we only got half of what we ordered.. and then, while we were eating, they were already mopping the floor around empty tables.. the second time we came, the sushi bar was late.. then, one girl staff was perli2 the sushi guys for being the reason they were closing late and the other staff was apologizing to us for the late food.. all the drama while we were eating, i swear i want to stab the shouting girl with the chopstick already.. but food was nice..",
+                "likes": 2,
+                "details": {
+                    "service": 2,
+                    "meal_type": "Dinner",
+                    "food": 4,
+                    "atmosphere": 2
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN0X1pUMHBBRRAB!2m1!1s0x0:0xfbeee1603987ab8e!3m1!1s2@1:CIHM0ogKEICAgICt_ZT0pAE%7CCgsIqsLprQYQkOWsUA%7C?hl=en-US",
+                "rating": 4,
+                "snippet": "The place was a bit hard to park. But the food and services are good.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Lunch",
+                    "price_per_person": "RM 1–20",
+                    "food": 4,
+                    "atmosphere": 3
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNsel8zQm53RRAB!2m1!1s0x0:0xfbeee1603987ab8e!3m1!1s2@1:CIHM0ogKEICAgIClz_3BnwE%7CCgwI_OOaqwYQyOLy-wI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "definitely my favorite place for japanese cuisine. if you go during peak hour it will take a moment before you get seated. but everything else is good here. recommended.",
+                "likes": 3,
+                "details": {
+                    "service": 5,
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNqNk8tV2RnEAE!2m1!1s0x0:0xfbeee1603987ab8e!3m1!1s2@1:CIHM0ogKEICAgICj6O-Wdg%7CCgsI5qP_sAYQyMuNRA%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Friendly staff, fast service. I've been here 3 times, every time the food has been great. It doesn't taste like original sushi from Japan since it's been altered to suit local tastebud, so don't expect authenticity, but I can assure you it doesn't taste bad at all\n\nSome of my favourites are the gyozas, mentai sushis, and tempura. Teppanyaki and rice with chicken karaage are forgettable, but they dont taste bad.\n\nOverall, lovely place, lovely staff and lovely food.",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 20–40",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Tempura"
+                }
+            },
+            {
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNEaC1qUnNBRRAB!2m1!1s0x0:0xfbeee1603987ab8e!3m1!1s2@1:CIHM0ogKEICAgICDh-jRsAE%7CCgwIquSvsAYQkPOxqwI%7C?hl=en-US",
+                "rating": 5,
+                "snippet": "Beef tenpayaki sedap gilaa, everything is was great !",
+                "likes": 0,
+                "details": {
+                    "service": 5,
+                    "meal_type": "Dinner",
+                    "price_per_person": "RM 80–100",
+                    "food": 5,
+                    "atmosphere": 5,
+                    "recommended_dishes": "Beef Teppanyaki"
+                }
+            }
+        ],
+        "types": [
+            "Restaurant"
+        ],
+        "address": "Residensi Highpark, Lot L1-3K,5K &6K, 1, Jln SS 6/7, Ss 6, 47301 Petaling Jaya, Selangor, Malaysia"
+    }
+]
