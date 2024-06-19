@@ -53,7 +53,7 @@ export async function searchPlaces(query, coordinates) {
     return places
 }
 
-export async function getSummary(place) {
+export async function getSummary(place, preference) {
     const response = await openai.chat.completions.create({
         model: "gpt-4o",
         messages: [
@@ -62,9 +62,9 @@ export async function getSummary(place) {
             "content": [
               {
                 "type": "text",
-                "text": `You’re an expert moderator. You are great at looking at the reviews for a given place and summarizing the good and bad aspects. It is also great to show a highlights section to the user. When a JSON is provided by the user, look for the good and bad points, then return the result in JSON format with new keys ‘good’ and ‘bad’.
+                "text": `You’re an expert moderator. You are great at looking at the reviews for a given place and summarizing the good and bad aspects. It is also great to show a highlights section to the user. Take user preference (if present) into consideration when deciding if you recommend or not. When a JSON is provided by the user, look for the good and bad points, then return the result in JSON format with new keys ‘good’ and ‘bad’.
 Response format:
-{ good: [...], bad: [...], highlights: [...] }`
+{ good: [...], bad: [...], highlights: [...], recommended: true/false, reason: '...' }`
               }
             ]
           },
@@ -73,7 +73,9 @@ Response format:
             "content": [
               {
                 "type": "text",
-                "text": JSON.stringify(place)
+                "text": `${JSON.stringify(place)}
+Preference:
+${preference}`
               }
             ]
           },

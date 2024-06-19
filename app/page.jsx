@@ -7,6 +7,7 @@ import PlaceSummary from "./components/PlaceSummary"
 export default function Home() {
   const [query, setQuery] = useState('')
   const [coordinates, setCoordinates] = useState('')
+  const [preference, setPreference] = useState('')
   const [places, setPlaces] = useState([])
   const [error, setError] = useState(null)
 
@@ -37,28 +38,39 @@ export default function Home() {
     <main className="px-4 py-16 max-w-[1200px] mx-auto">
       <div className="flex gap-4">
         <div>
-          <input 
-            className="bg-gray-100 px-4 py-2 rounded text-xl w-[300px]" 
-            type="text" 
-            placeholder="Best sushi restaurant"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-          />
-        </div>
-        <div>
-          <div className="flex items-center gap-2 bg-gray-100 px-4 rounded  py-2">
-            <input 
-              className="bg-transparent text-xl w-[300px]" 
-              type="text" 
-              placeholder="Coordinates"
-              value={coordinates}
-              onChange={(e) => setCoordinates(e.target.value)}
-            />
-            <button onClick={setCurrentLocationCoordinates}>
-              <svg className="text-gray-500" width={20} height={20} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 0c13.3 0 24 10.7 24 24V65.5C366.8 76.3 435.7 145.2 446.5 232H488c13.3 0 24 10.7 24 24s-10.7 24-24 24H446.5C435.7 366.8 366.8 435.7 280 446.5V488c0 13.3-10.7 24-24 24s-24-10.7-24-24V446.5C145.2 435.7 76.3 366.8 65.5 280H24c-13.3 0-24-10.7-24-24s10.7-24 24-24H65.5C76.3 145.2 145.2 76.3 232 65.5V24c0-13.3 10.7-24 24-24zM112 256a144 144 0 1 0 288 0 144 144 0 1 0 -288 0zm192 0a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zm-144 0a96 96 0 1 1 192 0 96 96 0 1 1 -192 0z"/></svg>
-            </button>
+          <div className="flex gap-4">
+            <div>
+              <input 
+                className="bg-gray-100 px-4 py-2 rounded text-xl w-[300px]" 
+                type="text" 
+                placeholder="Best sushi restaurant"
+                value={query}
+                onChange={(e) => setQuery(e.target.value)}
+              />
+            </div>
+            <div className="relative">
+              <div className="flex items-center gap-2 bg-gray-100 px-4 rounded  py-2">
+                <input 
+                  className="bg-transparent text-xl w-[300px]" 
+                  type="text" 
+                  placeholder="Coordinates"
+                  value={coordinates}
+                  onChange={(e) => setCoordinates(e.target.value)}
+                />
+                <button onClick={setCurrentLocationCoordinates}>
+                  <svg className="text-gray-500" width={20} height={20} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 0c13.3 0 24 10.7 24 24V65.5C366.8 76.3 435.7 145.2 446.5 232H488c13.3 0 24 10.7 24 24s-10.7 24-24 24H446.5C435.7 366.8 366.8 435.7 280 446.5V488c0 13.3-10.7 24-24 24s-24-10.7-24-24V446.5C145.2 435.7 76.3 366.8 65.5 280H24c-13.3 0-24-10.7-24-24s10.7-24 24-24H65.5C76.3 145.2 145.2 76.3 232 65.5V24c0-13.3 10.7-24 24-24zM112 256a144 144 0 1 0 288 0 144 144 0 1 0 -288 0zm192 0a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zm-144 0a96 96 0 1 1 192 0 96 96 0 1 1 -192 0z"/></svg>
+                </button>
+              </div>
+              <div className="absolute bottom-0 translate-y-full text-red-500 text-xs mt-1.5">{error}</div>
+            </div>
           </div>
-          <div className="absolute text-red-500 text-xs mt-1.5">{error}</div>
+          <input 
+            className="bg-gray-100 px-4 py-2 rounded text-xl w-full mt-4" 
+            type="text" 
+            placeholder="What's your preference?"
+            value={preference}
+            onChange={(e) => setPreference(e.target.value)}
+          />
         </div>
         <button onClick={performSearch} className="bg-purple-600 hover:bg-purple-700 transition-colors text-white text-xl w-[100px] rounded">Find</button>
       </div>
@@ -75,7 +87,7 @@ export default function Home() {
                 <div className="text-sm">{place.rating} ({place.total_reviews})</div>
               </div>
             </div>
-            <PlaceSummary place={place} />
+            <PlaceSummary place={place} preference={preference} />
           </div>
         ))}
       </div>
