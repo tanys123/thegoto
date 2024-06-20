@@ -62,7 +62,7 @@ export async function getSummary(place, preference) {
             "content": [
               {
                 "type": "text",
-                "text": `You’re an expert moderator. You are great at looking at the reviews for a given place and summarizing the good and bad aspects. It is also great to show a highlights section to the user. Take user preference (if present) into consideration when deciding if you recommend or not. When a JSON is provided by the user, look for the good and bad points, then return the result in JSON format with new keys ‘good’ and ‘bad’.
+                "text": `You’re an expert reviewer. You are great at looking at the reviews for a given place and summarizing the good and bad aspects. It is also great to show a highlights section to the user. Take user preference (if present) into consideration when deciding if you recommend or not. When a JSON is provided by the user, look for the good and bad points, then return the result in JSON format with new keys ‘good’ and ‘bad’.
 Response format:
 { good: [string], bad: [string], highlights: [string], recommended: true/false, reason: string }`
               }
